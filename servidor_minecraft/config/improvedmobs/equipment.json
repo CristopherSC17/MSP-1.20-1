@@ -1,0 +1,8112 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "aether:candy_cane_sword": [
+      25067,
+      0.0081
+    ],
+    "aether:flaming_sword": [
+      24205,
+      1.0088911
+    ],
+    "aether:gravitite_axe": [
+      22343,
+      5.022479
+    ],
+    "aether:gravitite_sword": [
+      22405,
+      4.889481
+    ],
+    "aether:hammer_of_kingbdogz": [
+      24658,
+      0.049
+    ],
+    "aether:holy_sword": [
+      24205,
+      1.0088911
+    ],
+    "aether:holystone_axe": [
+      24774,
+      0.0374
+    ],
+    "aether:holystone_sword": [
+      24882,
+      0.026599998
+    ],
+    "aether:lightning_sword": [
+      24205,
+      1.0088911
+    ],
+    "aether:phoenix_bow": [
+      22580,
+      4.508568
+    ],
+    "aether:pig_slayer": [
+      24743,
+      0.040499996
+    ],
+    "aether:skyroot_axe": [
+      24958,
+      0.019
+    ],
+    "aether:skyroot_sword": [
+      25021,
+      0.0127
+    ],
+    "aether:valkyrie_axe": [
+      22343,
+      5.022479
+    ],
+    "aether:valkyrie_lance": [
+      22405,
+      4.889481
+    ],
+    "aether:vampire_blade": [
+      21606,
+      6.5723376
+    ],
+    "aether:zanite_axe": [
+      24571,
+      0.51635593
+    ],
+    "aether:zanite_sword": [
+      24658,
+      0.049
+    ],
+    "aether_redux:infused_veridium_axe": [
+      23859,
+      1.4534681
+    ],
+    "aether_redux:infused_veridium_sword": [
+      23808,
+      1.5193686
+    ],
+    "aether_redux:subzero_crossbow": [
+      21756,
+      6.259293
+    ],
+    "aether_redux:veridium_axe": [
+      23859,
+      1.4534681
+    ],
+    "aether_redux:veridium_sword": [
+      23846,
+      1.4702548
+    ],
+    "aetherdelight:gravitite_knife": [
+      22460,
+      4.770769
+    ],
+    "aetherdelight:holystone_knife": [
+      24916,
+      0.0232
+    ],
+    "aetherdelight:skyjade_knife": [
+      24873,
+      0.0275
+    ],
+    "aetherdelight:stratus_knife": [
+      21643,
+      6.4951706
+    ],
+    "aetherdelight:veridium_knife": [
+      23859,
+      1.4534681
+    ],
+    "aetherdelight:zanite_knife": [
+      24703,
+      0.044499997
+    ],
+    "alexscaves:desolate_dagger": [
+      22468,
+      4.753436
+    ],
+    "alexscavesdelight:azure_neodymium_knife": [
+      24696,
+      0.045199998
+    ],
+    "alexscavesdelight:candy_knife": [
+      25089,
+      0.0058999998
+    ],
+    "alexscavesdelight:caramel_knife": [
+      25089,
+      0.0058999998
+    ],
+    "alexscavesdelight:gingerbread_knife": [
+      25089,
+      0.0058999998
+    ],
+    "alexscavesdelight:pearl_knife": [
+      25089,
+      0.0058999998
+    ],
+    "alexscavesdelight:pure_darkness_knife": [
+      25089,
+      0.0058999998
+    ],
+    "alexscavesdelight:scarlet_neodymium_knife": [
+      24696,
+      0.045199998
+    ],
+    "alexscavesdelight:sweet_tooth_knife": [
+      25089,
+      0.0058999998
+    ],
+    "alexscavesdelight:tectonic_knife": [
+      21631,
+      6.5202
+    ],
+    "alexscavesdelight:uranium_knife": [
+      25089,
+      0.0058999998
+    ],
+    "alexsmobs:skelewag_sword": [
+      24382,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      24679,
+      0.0469
+    ],
+    "aquamirae:coral_lance": [
+      22510,
+      4.662123
+    ],
+    "aquamirae:dagger_of_greed": [
+      24951,
+      0.019699998
+    ],
+    "aquamirae:divider": [
+      21318,
+      7.172319
+    ],
+    "aquamirae:fin_cutter": [
+      23383,
+      2.0735214
+    ],
+    "aquamirae:poisoned_blade": [
+      24254,
+      0.94598794
+    ],
+    "aquamirae:remnants_saber": [
+      24934,
+      0.021399999
+    ],
+    "aquamirae:sweet_lance": [
+      22510,
+      4.662123
+    ],
+    "aquamirae:terrible_sword": [
+      23808,
+      1.5193686
+    ],
+    "aquamirae:whisper_of_the_abyss": [
+      22510,
+      4.662123
+    ],
+    "ars_nouveau:enchanters_sword": [
+      21577,
+      6.632802
+    ],
+    "ars_nouveau:spell_bow": [
+      23348,
+      2.1195521
+    ],
+    "ars_nouveau:spell_crossbow": [
+      23804,
+      1.5245426
+    ],
+    "bakery:bread_knife": [
+      24696,
+      0.045199998
+    ],
+    "bakery:rolling_pin": [
+      25043,
+      0.010499999
+    ],
+    "beachparty:pool_noodle": [
+      25043,
+      0.010499999
+    ],
+    "blue_skies:aquite_axe": [
+      24537,
+      0.56912816
+    ],
+    "blue_skies:aquite_sword": [
+      24624,
+      0.40784094
+    ],
+    "blue_skies:bluebright_axe": [
+      24958,
+      0.019
+    ],
+    "blue_skies:bluebright_sword": [
+      25021,
+      0.0127
+    ],
+    "blue_skies:charoite_axe": [
+      22343,
+      5.022479
+    ],
+    "blue_skies:charoite_sword": [
+      22405,
+      4.889481
+    ],
+    "blue_skies:comet_axe": [
+      24874,
+      0.0274
+    ],
+    "blue_skies:comet_sword": [
+      24943,
+      0.020499999
+    ],
+    "blue_skies:debug_sword": [
+      23341,
+      2.128765
+    ],
+    "blue_skies:different_sword": [
+      23218,
+      2.2910256
+    ],
+    "blue_skies:diopside_axe": [
+      22089,
+      5.561167
+    ],
+    "blue_skies:diopside_sword": [
+      22173,
+      5.383871
+    ],
+    "blue_skies:dusk_axe": [
+      24958,
+      0.019
+    ],
+    "blue_skies:dusk_sword": [
+      25021,
+      0.0127
+    ],
+    "blue_skies:frostbright_axe": [
+      24958,
+      0.019
+    ],
+    "blue_skies:frostbright_sword": [
+      25021,
+      0.0127
+    ],
+    "blue_skies:horizonite_axe": [
+      24571,
+      0.51635593
+    ],
+    "blue_skies:horizonite_sword": [
+      24658,
+      0.049
+    ],
+    "blue_skies:infused_arc_sword": [
+      23466,
+      1.9645984
+    ],
+    "blue_skies:lunar_axe": [
+      24958,
+      0.019
+    ],
+    "blue_skies:lunar_stone_axe": [
+      24774,
+      0.0374
+    ],
+    "blue_skies:lunar_stone_sword": [
+      24882,
+      0.026599998
+    ],
+    "blue_skies:lunar_sword": [
+      25021,
+      0.0127
+    ],
+    "blue_skies:maple_axe": [
+      24958,
+      0.019
+    ],
+    "blue_skies:maple_sword": [
+      25021,
+      0.0127
+    ],
+    "blue_skies:pyrope_axe": [
+      24673,
+      0.0475
+    ],
+    "blue_skies:pyrope_sword": [
+      24754,
+      0.039399996
+    ],
+    "blue_skies:starlit_axe": [
+      24958,
+      0.019
+    ],
+    "blue_skies:starlit_sword": [
+      25021,
+      0.0127
+    ],
+    "blue_skies:turquoise_stone_axe": [
+      24774,
+      0.0374
+    ],
+    "blue_skies:turquoise_stone_sword": [
+      24882,
+      0.026599998
+    ],
+    "boh:desire_edge": [
+      25101,
+      0.0047
+    ],
+    "boh:god_hand": [
+      25121,
+      0.0026999998
+    ],
+    "boh:killer_knife": [
+      25134,
+      0.0014
+    ],
+    "boh:painted_sword": [
+      21598,
+      6.58902
+    ],
+    "boh:plunger": [
+      23796,
+      1.5348927
+    ],
+    "boh:tactical_knife": [
+      25104,
+      0.0044
+    ],
+    "boh:the_slasher": [
+      25071,
+      0.0076999995
+    ],
+    "born_in_chaos_v1:dark_ritual_dagger": [
+      23893,
+      1.4096019
+    ],
+    "born_in_chaos_v1:darkwarblade": [
+      17952,
+      14.226674
+    ],
+    "born_in_chaos_v1:great_reaper_axe": [
+      23089,
+      3.1486528
+    ],
+    "born_in_chaos_v1:intoxicating_dagger": [
+      23213,
+      2.2976365
+    ],
+    "born_in_chaos_v1:nightmare_scythe": [
+      23806,
+      1.5219555
+    ],
+    "born_in_chaos_v1:sharpened_dark_metal_sword": [
+      23188,
+      2.330707
+    ],
+    "born_in_chaos_v1:shell_mace": [
+      24349,
+      0.8234185
+    ],
+    "born_in_chaos_v1:skullbreaker_hammer": [
+      22028,
+      5.689535
+    ],
+    "born_in_chaos_v1:soul_cutlass": [
+      23893,
+      1.4096019
+    ],
+    "born_in_chaos_v1:soulbane": [
+      19812,
+      10.312961
+    ],
+    "born_in_chaos_v1:spider_bite_sword": [
+      23213,
+      2.2976365
+    ],
+    "born_in_chaos_v1:spiritual_sword": [
+      24254,
+      0.94598794
+    ],
+    "born_in_chaos_v1:supreme_measure": [
+      2,
+      53.470917
+    ],
+    "born_in_chaos_v1:sweet_axe": [
+      23976,
+      1.3027282
+    ],
+    "born_in_chaos_v1:sweet_sword": [
+      24051,
+      1.2063804
+    ],
+    "born_in_chaos_v1:trident_hayfork": [
+      24537,
+      0.56912816
+    ],
+    "born_in_chaos_v1:wood_splitter_axe": [
+      24500,
+      0.6222344
+    ],
+    "bossominium:angelic_golden_sword": [
+      20640,
+      8.584065
+    ],
+    "bossominium:bone_pick": [
+      23383,
+      2.0735214
+    ],
+    "bossominium:chorus_rapier": [
+      21658,
+      6.463877
+    ],
+    "bossominium:dagger_of_en": [
+      23329,
+      2.1445646
+    ],
+    "bossominium:ender_crystal_sword": [
+      18754,
+      12.533905
+    ],
+    "bossominium:fanged_dagger": [
+      23296,
+      2.1880474
+    ],
+    "bossominium:forest_mace": [
+      23329,
+      2.1445646
+    ],
+    "bossominium:golden_dagger": [
+      23490,
+      1.933165
+    ],
+    "bossominium:morse_sword": [
+      21596,
+      6.59319
+    ],
+    "bossominium:moss_dagger": [
+      24009,
+      1.260312
+    ],
+    "bossominium:possesed_sword": [
+      23202,
+      2.3121839
+    ],
+    "bossominium:pure_staff": [
+      24794,
+      0.0354
+    ],
+    "bossominium:sand_staff": [
+      24973,
+      0.0175
+    ],
+    "bossominium:spore_sword": [
+      23466,
+      1.9645984
+    ],
+    "bossominium:strayed_sword": [
+      23669,
+      1.6996226
+    ],
+    "bossominium:submerged_axe": [
+      23202,
+      2.3121839
+    ],
+    "bossominium:sword_of_rav": [
+      23043,
+      3.3403335
+    ],
+    "bossominium:turret_sword": [
+      21518,
+      6.755772
+    ],
+    "bossominium:vex_smasher": [
+      22324,
+      5.063087
+    ],
+    "botania:crystal_bow": [
+      22348,
+      5.0117817
+    ],
+    "botania:elementium_axe": [
+      23772,
+      1.5659617
+    ],
+    "botania:elementium_sword": [
+      23859,
+      1.4534681
+    ],
+    "botania:ender_dagger": [
+      24966,
+      0.018199999
+    ],
+    "botania:livingwood_bow": [
+      22348,
+      5.0117817
+    ],
+    "botania:manasteel_axe": [
+      24486,
+      0.6416611
+    ],
+    "botania:manasteel_sword": [
+      24573,
+      0.5130528
+    ],
+    "botania:star_sword": [
+      21119,
+      7.5865693
+    ],
+    "botania:terra_axe": [
+      21049,
+      7.7322817
+    ],
+    "botania:terra_sword": [
+      21119,
+      7.5865693
+    ],
+    "botania:thunder_sword": [
+      21119,
+      7.5865693
+    ],
+    "call_of_yucutan:flint_spear": [
+      24849,
+      0.0299
+    ],
+    "call_of_yucutan:jade_axe": [
+      23873,
+      1.4353992
+    ],
+    "call_of_yucutan:jade_sword": [
+      23924,
+      1.3696512
+    ],
+    "call_of_yucutan:macuahuitl": [
+      23721,
+      1.6320775
+    ],
+    "call_of_yucutan:obsidian_spear": [
+      23783,
+      1.5517184
+    ],
+    "call_of_yucutan:obsidian_tecpatl": [
+      23808,
+      1.5193686
+    ],
+    "call_of_yucutan:silex_tecpatl": [
+      24866,
+      0.028199999
+    ],
+    "call_of_yucutan:wooden_spear": [
+      24951,
+      0.019699998
+    ],
+    "call_of_yucutan:wooden_tecpatl": [
+      24964,
+      0.018399999
+    ],
+    "cataclysm:athame": [
+      24679,
+      0.0469
+    ],
+    "cataclysm:black_steel_axe": [
+      23721,
+      1.6320775
+    ],
+    "cataclysm:black_steel_sword": [
+      23808,
+      1.5193686
+    ],
+    "cataclysm:final_fractal": [
+      13586,
+      23.563541
+    ],
+    "cataclysm:khopesh": [
+      23829,
+      1.4922183
+    ],
+    "cataclysm:zweiender": [
+      13586,
+      23.563541
+    ],
+    "deep_aether:skyjade_axe": [
+      24866,
+      0.028199999
+    ],
+    "deep_aether:skyjade_sword": [
+      24663,
+      0.048499998
+    ],
+    "deep_aether:stratus_axe": [
+      21507,
+      6.778693
+    ],
+    "deep_aether:stratus_sword": [
+      21577,
+      6.632802
+    ],
+    "deeperdarker:resonarium_axe": [
+      22968,
+      3.5768492
+    ],
+    "deeperdarker:resonarium_sword": [
+      23030,
+      3.385685
+    ],
+    "deeperdarker:warden_axe": [
+      20636,
+      8.592401
+    ],
+    "deeperdarker:warden_sword": [
+      20714,
+      8.429875
+    ],
+    "dungeonnowloading:life_stealer": [
+      22403,
+      4.8937836
+    ],
+    "dungeonnowloading:spawner_sword": [
+      22403,
+      4.8937836
+    ],
+    "herios_helian_mod:helian_axe": [
+      22894,
+      3.7758875
+    ],
+    "herios_helian_mod:helian_sword": [
+      22608,
+      4.4465685
+    ],
+    "iceandfire:amphithere_macuahuitl": [
+      24254,
+      0.94598794
+    ],
+    "iceandfire:copper_axe": [
+      24573,
+      0.5130528
+    ],
+    "iceandfire:copper_sword": [
+      24611,
+      0.44120392
+    ],
+    "iceandfire:dragonbone_axe": [
+      22137,
+      5.459938
+    ],
+    "iceandfire:dragonbone_bow": [
+      22180,
+      5.3690643
+    ],
+    "iceandfire:dragonbone_sword": [
+      22207,
+      5.311902
+    ],
+    "iceandfire:dragonbone_sword_fire": [
+      21578,
+      6.6307178
+    ],
+    "iceandfire:dragonbone_sword_ice": [
+      21578,
+      6.6307178
+    ],
+    "iceandfire:dragonbone_sword_lightning": [
+      21578,
+      6.6307178
+    ],
+    "iceandfire:dragonsteel_fire_axe": [
+      10682,
+      29.865591
+    ],
+    "iceandfire:dragonsteel_fire_sword": [
+      10954,
+      29.272722
+    ],
+    "iceandfire:dragonsteel_ice_axe": [
+      10682,
+      29.865591
+    ],
+    "iceandfire:dragonsteel_ice_sword": [
+      10954,
+      29.272722
+    ],
+    "iceandfire:dragonsteel_lightning_axe": [
+      10682,
+      29.865591
+    ],
+    "iceandfire:dragonsteel_lightning_sword": [
+      10954,
+      29.272722
+    ],
+    "iceandfire:dread_knight_sword": [
+      22794,
+      4.0215507
+    ],
+    "iceandfire:dread_queen_sword": [
+      10954,
+      29.272722
+    ],
+    "iceandfire:dread_sword": [
+      24934,
+      0.021399999
+    ],
+    "iceandfire:ghost_sword": [
+      19818,
+      10.300405
+    ],
+    "iceandfire:hippocampus_slapper": [
+      24293,
+      0.89580816
+    ],
+    "iceandfire:hippogryph_sword": [
+      24221,
+      0.988363
+    ],
+    "iceandfire:myrmex_desert_axe": [
+      24038,
+      1.2230678
+    ],
+    "iceandfire:myrmex_desert_sword": [
+      24084,
+      1.1640399
+    ],
+    "iceandfire:myrmex_desert_sword_venom": [
+      24084,
+      1.1640399
+    ],
+    "iceandfire:myrmex_jungle_axe": [
+      24038,
+      1.2230678
+    ],
+    "iceandfire:myrmex_jungle_sword": [
+      24084,
+      1.1640399
+    ],
+    "iceandfire:myrmex_jungle_sword_venom": [
+      24084,
+      1.1640399
+    ],
+    "iceandfire:silver_axe": [
+      24276,
+      0.91769844
+    ],
+    "iceandfire:silver_sword": [
+      24322,
+      0.8583848
+    ],
+    "iceandfire:stymphalian_bird_dagger": [
+      24233,
+      0.9729605
+    ],
+    "iceandfire:troll_weapon_axe": [
+      24324,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_column": [
+      24324,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_column_forest": [
+      24324,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_column_frost": [
+      24324,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_hammer": [
+      24324,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_trunk": [
+      24324,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_trunk_frost": [
+      24324,
+      0.8557993
+    ],
+    "lost_aether_content:phoenix_axe": [
+      22259,
+      5.201559
+    ],
+    "lost_aether_content:phoenix_sword": [
+      22306,
+      5.1015
+    ],
+    "mca:scythe": [
+      24864,
+      0.028399998
+    ],
+    "minecraft:bow": [
+      22580,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      22874,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      22343,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      22405,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      23548,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      25004,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      25067,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      24571,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      24658,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      23648,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      21507,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      21577,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      24598,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      23648,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      24774,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      24882,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      23448,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      22648,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      24958,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      25021,
+      0.0127
+    ],
+    "mowziesmobs:blowgun": [
+      22748,
+      4.129458
+    ],
+    "mowziesmobs:wrought_axe": [
+      24571,
+      0.51635593
+    ],
+    "nethers_exoticism:kiwano_axe": [
+      24571,
+      0.51635593
+    ],
+    "nethers_exoticism:kiwano_sword": [
+      24658,
+      0.049
+    ],
+    "outer_end:sinker_dagger": [
+      24658,
+      0.049
+    ],
+    "plenty_of_golems:the_ancient_anchor": [
+      19756,
+      10.430168
+    ],
+    "refurbished_furniture:knife": [
+      24648,
+      0.049999997
+    ],
+    "refurbished_furniture:spatula": [
+      24686,
+      0.046199996
+    ],
+    "reliquary:magicbane": [
+      25077,
+      0.0070999996
+    ],
+    "reliquary:mercy_cross": [
+      24851,
+      0.0297
+    ],
+    "sculkhorde:sculk_sweeper_sword": [
+      25012,
+      0.0136
+    ],
+    "stalwart_dungeons:awful_dagger": [
+      22278,
+      5.16115
+    ],
+    "stalwart_dungeons:chorundum_axe": [
+      21483,
+      6.8286967
+    ],
+    "stalwart_dungeons:chorundum_sword": [
+      21561,
+      6.666156
+    ],
+    "stalwart_dungeons:tungsten_axe": [
+      23703,
+      1.6554433
+    ],
+    "stalwart_dungeons:tungsten_sword": [
+      23754,
+      1.589282
+    ],
+    "tameablebeasts:bug_sword": [
+      22430,
+      4.8356147
+    ],
+    "theabyss:aberythe_axe": [
+      21984,
+      5.7819653
+    ],
+    "theabyss:aberythe_sword": [
+      22054,
+      5.6348557
+    ],
+    "theabyss:abyss_sword": [
+      17952,
+      14.226674
+    ],
+    "theabyss:bone_axe": [
+      24174,
+      1.0486451
+    ],
+    "theabyss:bone_sword_item": [
+      24234,
+      0.97167665
+    ],
+    "theabyss:bricked_knight_sword": [
+      22046,
+      5.6516857
+    ],
+    "theabyss:fusion_axe": [
+      21131,
+      7.5615907
+    ],
+    "theabyss:fusion_sword": [
+      21209,
+      7.399228
+    ],
+    "theabyss:garnite_axe": [
+      21879,
+      6.0020776
+    ],
+    "theabyss:garnite_sword": [
+      21953,
+      5.847013
+    ],
+    "theabyss:holy_spoon": [
+      23329,
+      2.1445646
+    ],
+    "theabyss:ignisithe_sword": [
+      23273,
+      2.2183836
+    ],
+    "theabyss:incorythe_axe": [
+      18886,
+      12.25605
+    ],
+    "theabyss:incorythe_sword": [
+      18938,
+      12.146651
+    ],
+    "theabyss:incorythe_sword_mkii": [
+      18913,
+      12.199243
+    ],
+    "theabyss:knight_axe": [
+      21982,
+      5.786164
+    ],
+    "theabyss:knight_sword": [
+      22028,
+      5.689535
+    ],
+    "theabyss:nosaj_sword": [
+      7554,
+      36.717358
+    ],
+    "theabyss:phantom_axe": [
+      20689,
+      8.481962
+    ],
+    "theabyss:phantom_sword": [
+      20689,
+      8.481962
+    ],
+    "theabyss:unorithe_axe": [
+      19802,
+      10.333886
+    ],
+    "theabyss:unorithe_sword": [
+      19818,
+      10.300405
+    ],
+    "tropicraft:eudialyte_axe": [
+      23754,
+      1.589282
+    ],
+    "tropicraft:eudialyte_sword": [
+      23808,
+      1.5193686
+    ],
+    "tropicraft:zircon_axe": [
+      24718,
+      0.042999998
+    ],
+    "tropicraft:zircon_sword": [
+      24764,
+      0.038399998
+    ],
+    "tropicraft:zirconium_axe": [
+      21936,
+      5.882661
+    ],
+    "tropicraft:zirconium_sword": [
+      21998,
+      5.7525697
+    ],
+    "twilightdelight:teardrop_sword": [
+      22385,
+      4.9324703
+    ],
+    "twilightforest:diamond_minotaur_axe": [
+      22306,
+      5.1015
+    ],
+    "twilightforest:ender_bow": [
+      22580,
+      4.508568
+    ],
+    "twilightforest:fiery_sword": [
+      23289,
+      2.1972775
+    ],
+    "twilightforest:giant_sword": [
+      23172,
+      2.3518867
+    ],
+    "twilightforest:glass_sword": [
+      24109,
+      1.1319785
+    ],
+    "twilightforest:gold_minotaur_axe": [
+      25004,
+      0.014399999
+    ],
+    "twilightforest:ice_bow": [
+      22580,
+      4.508568
+    ],
+    "twilightforest:ice_sword": [
+      24990,
+      0.0158
+    ],
+    "twilightforest:ironwood_axe": [
+      24126,
+      1.1101819
+    ],
+    "twilightforest:ironwood_sword": [
+      24213,
+      0.9986282
+    ],
+    "twilightforest:knightmetal_axe": [
+      24089,
+      1.1576267
+    ],
+    "twilightforest:knightmetal_sword": [
+      24188,
+      1.030694
+    ],
+    "twilightforest:seeker_bow": [
+      22580,
+      4.508568
+    ],
+    "twilightforest:steeleaf_axe": [
+      24737,
+      0.0411
+    ],
+    "twilightforest:steeleaf_sword": [
+      24836,
+      0.031199997
+    ],
+    "twilightforest:triple_bow": [
+      22580,
+      4.508568
+    ],
+    "undergarden:cloggrum_axe": [
+      24510,
+      0.6081686
+    ],
+    "undergarden:cloggrum_battleaxe": [
+      23460,
+      1.9724612
+    ],
+    "undergarden:cloggrum_sword": [
+      24572,
+      0.51470804
+    ],
+    "undergarden:forgotten_axe": [
+      21807,
+      6.152712
+    ],
+    "undergarden:forgotten_battleaxe": [
+      15351,
+      19.766527
+    ],
+    "undergarden:forgotten_sword": [
+      21869,
+      6.0230126
+    ],
+    "undergarden:froststeel_axe": [
+      24019,
+      1.2474661
+    ],
+    "undergarden:froststeel_sword": [
+      24106,
+      1.1358255
+    ],
+    "undergarden:utherium_axe": [
+      22804,
+      3.9977505
+    ],
+    "undergarden:utherium_sword": [
+      22870,
+      3.8366594
+    ],
+    "undergardendelight:cloggrum_knife": [
+      24627,
+      0.398549
+    ],
+    "undergardendelight:forgotten_knife": [
+      21921,
+      5.914102
+    ],
+    "undergardendelight:frosteel_knife": [
+      24151,
+      1.0781318
+    ],
+    "undergardendelight:utherium_knife": [
+      22934,
+      3.6709416
+    ],
+    "unusualend:ancient_sword": [
+      23289,
+      2.1972775
+    ],
+    "unusualend:bouncy_dagger": [
+      25035,
+      0.011299999
+    ],
+    "unusualend:pearlescent_axe": [
+      23256,
+      2.2408218
+    ],
+    "unusualend:pearlescent_sword": [
+      23318,
+      2.159053
+    ],
+    "unusualend:warped_spear": [
+      23256,
+      2.2408218
+    ],
+    "vampirism:basic_crossbow": [
+      22874,
+      3.826627
+    ],
+    "vampirism:basic_double_crossbow": [
+      22874,
+      3.826627
+    ],
+    "vampirism:basic_tech_crossbow": [
+      21944,
+      5.8658876
+    ],
+    "vampirism:enhanced_crossbow": [
+      21944,
+      5.8658876
+    ],
+    "vampirism:enhanced_double_crossbow": [
+      21944,
+      5.8658876
+    ],
+    "vampirism:enhanced_tech_crossbow": [
+      20084,
+      9.744191
+    ],
+    "vampirism:heart_seeker_enhanced": [
+      22091,
+      5.5569534
+    ],
+    "vampirism:heart_seeker_normal": [
+      24240,
+      0.96397245
+    ],
+    "vampirism:heart_seeker_ultimate": [
+      20789,
+      8.273644
+    ],
+    "vampirism:heart_striker_enhanced": [
+      22048,
+      5.647479
+    ],
+    "vampirism:heart_striker_normal": [
+      24229,
+      0.97809535
+    ],
+    "vampirism:heart_striker_ultimate": [
+      20702,
+      8.454877
+    ],
+    "vampirism:hunter_axe_enhanced": [
+      22265,
+      5.1888037
+    ],
+    "vampirism:hunter_axe_normal": [
+      24493,
+      0.6319829
+    ],
+    "vampirism:hunter_axe_ultimate": [
+      21466,
+      6.8641124
+    ],
+    "vampirism:pitchfork": [
+      24571,
+      0.51635593
+    ],
+    "vampirism:stake": [
+      25043,
+      0.010499999
+    ],
+    "werewolves:silver_axe": [
+      24571,
+      0.51635593
+    ],
+    "werewolves:silver_sword": [
+      24658,
+      0.049
+    ],
+    "witherstormmod:command_block_axe": [
+      24912,
+      0.023599999
+    ],
+    "witherstormmod:command_block_sword": [
+      24959,
+      0.0189
+    ],
+    "witherstormmod:eye_of_the_storm": [
+      24916,
+      0.0232
+    ],
+    "witherstormmod:formidi_blade": [
+      24959,
+      0.0189
+    ],
+    "witherstormmod:gold_command_block_axe": [
+      24978,
+      0.016999999
+    ],
+    "witherstormmod:gold_command_block_sword": [
+      25139,
+      8.999999E-4
+    ],
+    "witherstormmod:iron_command_block_axe": [
+      24897,
+      0.0251
+    ],
+    "witherstormmod:iron_command_block_sword": [
+      24916,
+      0.0232
+    ],
+    "witherstormmod:stone_command_block_axe": [
+      24910,
+      0.023799999
+    ],
+    "witherstormmod:stone_command_block_sword": [
+      24988,
+      0.015999999
+    ],
+    "witherstormmod:wooden_command_block_axe": [
+      24929,
+      0.0219
+    ],
+    "witherstormmod:wooden_command_block_sword": [
+      25037,
+      0.0111
+    ]
+  },
+  "OFFHAND": {
+    "alexscaves:resistor_shield": [
+      895,
+      4.9045377
+    ],
+    "ars_nouveau:enchanters_shield": [
+      1895,
+      2.053812
+    ],
+    "blue_skies:moonstone_shield": [
+      1975,
+      1.948878
+    ],
+    "blue_skies:spike_shield": [
+      1195,
+      4.2443447
+    ],
+    "call_of_yucutan:hematite_shield": [
+      2595,
+      1.1460843
+    ],
+    "cataclysm:black_steel_targe": [
+      1215,
+      4.1986494
+    ],
+    "deep_aether:skyjade_shield": [
+      1551,
+      3.2997048
+    ],
+    "deep_aether:stratus_shield": [
+      207,
+      6.3553553
+    ],
+    "lost_aether_content:gravitite_shield": [
+      879,
+      4.938911
+    ],
+    "lost_aether_content:shield_of_emile": [
+      207,
+      6.3553553
+    ],
+    "lost_aether_content:zanite_shield": [
+      1551,
+      3.2997048
+    ],
+    "minecraft:ender_pearl": [
+      2545,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      2517,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      2145,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      2223,
+      1.6255897
+    ],
+    "nethers_exoticism:rambutan_shield": [
+      2767,
+      0.9254177
+    ],
+    "outer_end:shulker_shield": [
+      1343,
+      3.896143
+    ],
+    "the_bumblezone:honey_crystal_shield": [
+      2815,
+      0.8635538
+    ],
+    "twilightforest:knightmetal_shield": [
+      847,
+      5.0075016
+    ],
+    "undergarden:cloggrum_shield": [
+      1551,
+      3.2997048
+    ],
+    "unusualend:enderblob_shield": [
+      2447,
+      1.3361759
+    ]
+  },
+  "FEET": {
+    "ad_astra:jet_suit_boots": [
+      3168,
+      5.086568
+    ],
+    "ad_astra:netherite_space_boots": [
+      4001,
+      2.3839326
+    ],
+    "ad_astra:space_boots": [
+      4814,
+      1.3245949
+    ],
+    "aether:gravitite_boots": [
+      4118,
+      2.231581
+    ],
+    "aether:neptune_boots": [
+      4948,
+      1.1524966
+    ],
+    "aether:obsidian_boots": [
+      4056,
+      2.3135066
+    ],
+    "aether:phoenix_boots": [
+      4118,
+      2.231581
+    ],
+    "aether:sentry_boots": [
+      4953,
+      1.1460843
+    ],
+    "aether:valkyrie_boots": [
+      4118,
+      2.231581
+    ],
+    "aether:zanite_boots": [
+      4953,
+      1.1460843
+    ],
+    "alexscaves:diving_boots": [
+      4975,
+      1.1178746
+    ],
+    "alexscaves:gingerbread_boots": [
+      5229,
+      0.79089624
+    ],
+    "alexscaves:hazmat_boots": [
+      5176,
+      0.85967726
+    ],
+    "alexscaves:rainbounce_boots": [
+      5616,
+      0.0387
+    ],
+    "alexsmobs:flying_fish_boots": [
+      5862,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      5300,
+      0.6972618
+    ],
+    "aquamirae:abyssal_boots": [
+      4558,
+      1.6554433
+    ],
+    "aquamirae:terrible_boots": [
+      4612,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_boots": [
+      3950,
+      3.1174598
+    ],
+    "ars_nouveau:arcanist_boots": [
+      4778,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_boots": [
+      4018,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_boots": [
+      5194,
+      0.8363856
+    ],
+    "beachparty:crocs": [
+      5804,
+      0.0199
+    ],
+    "blue_skies:aquite_boots": [
+      4953,
+      1.1460843
+    ],
+    "blue_skies:charoite_boots": [
+      4118,
+      2.231581
+    ],
+    "blue_skies:diopside_boots": [
+      4637,
+      1.5530128
+    ],
+    "blue_skies:horizonite_boots": [
+      5262,
+      0.74766654
+    ],
+    "blue_skies:pyrope_boots": [
+      5262,
+      0.74766654
+    ],
+    "blue_skies:shadow_boots": [
+      4095,
+      2.2619522
+    ],
+    "boh:exe_boots_boots": [
+      5319,
+      0.67169523
+    ],
+    "born_in_chaos_v1:dark_metal_armor_boots": [
+      3047,
+      5.3436694
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_boots": [
+      4249,
+      2.0590668
+    ],
+    "botania:elementium_boots": [
+      4887,
+      1.2307714
+    ],
+    "botania:manasteel_boots": [
+      4901,
+      1.2127981
+    ],
+    "botania:manaweave_boots": [
+      5682,
+      0.0321
+    ],
+    "botania:terrasteel_boots": [
+      4022,
+      2.3585079
+    ],
+    "brewery:brewfest_boots": [
+      5697,
+      0.030599998
+    ],
+    "brewery:brewfest_shoes": [
+      5727,
+      0.0276
+    ],
+    "call_of_yucutan:jades_boots": [
+      4137,
+      2.2065098
+    ],
+    "candlelight:chefs_boots": [
+      5829,
+      0.0174
+    ],
+    "cataclysm:cursium_boots": [
+      2357,
+      6.789111
+    ],
+    "cataclysm:ignitium_boots": [
+      1147,
+      9.309818
+    ],
+    "deep_aether:skyjade_boots": [
+      4382,
+      1.8847604
+    ],
+    "deep_aether:stratus_boots": [
+      4062,
+      2.3055708
+    ],
+    "deeperdarker:resonarium_boots": [
+      4447,
+      1.7998894
+    ],
+    "deeperdarker:warden_boots": [
+      3162,
+      5.0993676
+    ],
+    "dungeonnowloading:spawner_boots": [
+      4245,
+      2.0643225
+    ],
+    "herios_helian_mod:helian_alloy_armor_boots": [
+      4627,
+      1.5659617
+    ],
+    "iceandfire:armor_amythest_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_black_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_blue_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_bronze_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_copper_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_copper_metal_boots": [
+      5513,
+      0.049
+    ],
+    "iceandfire:armor_electric_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_gray_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_green_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_red_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_sapphire_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_silver_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_silver_metal_boots": [
+      5222,
+      0.80001926
+    ],
+    "iceandfire:armor_white_boots": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:deathworm_red_boots": [
+      4716,
+      1.4508864
+    ],
+    "iceandfire:deathworm_white_boots": [
+      4716,
+      1.4508864
+    ],
+    "iceandfire:deathworm_yellow_boots": [
+      4716,
+      1.4508864
+    ],
+    "iceandfire:dragonsteel_fire_boots": [
+      1,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_ice_boots": [
+      1,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_lightning_boots": [
+      1,
+      11.709396
+    ],
+    "iceandfire:forest_troll_leather_boots": [
+      4657,
+      1.5271299
+    ],
+    "iceandfire:frost_troll_leather_boots": [
+      4657,
+      1.5271299
+    ],
+    "iceandfire:mountain_troll_leather_boots": [
+      4657,
+      1.5271299
+    ],
+    "iceandfire:myrmex_desert_boots": [
+      4188,
+      2.1392972
+    ],
+    "iceandfire:myrmex_jungle_boots": [
+      4188,
+      2.1392972
+    ],
+    "iceandfire:sheep_boots": [
+      5697,
+      0.030599998
+    ],
+    "iceandfire:tide_blue_boots": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_bronze_boots": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_deepblue_boots": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_green_boots": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_purple_boots": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_red_boots": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_teal_boots": [
+      3545,
+      4.262535
+    ],
+    "kawaiidishes:brown_shoes": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:dark_brown_shoes": [
+      5013,
+      1.069158
+    ],
+    "lost_aether_content:agility_boots": [
+      4118,
+      2.231581
+    ],
+    "minecraft:chainmail_boots": [
+      5411,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      4495,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      5477,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      5163,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      5759,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      4368,
+      1.9030677
+    ],
+    "nethers_exoticism:kiwano_boots": [
+      4953,
+      1.1460843
+    ],
+    "outer_end:cobalt_crystal_boots": [
+      3916,
+      3.2725234
+    ],
+    "outer_end:mint_crystal_boots": [
+      3916,
+      3.2725234
+    ],
+    "outer_end:rose_crystal_boots": [
+      3916,
+      3.2725234
+    ],
+    "selfexpression:android_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:aomori_boots": [
+      5212,
+      0.8130289
+    ],
+    "selfexpression:apocalypsise_survivor_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:aremeh_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:artem_andr_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:assassin_boots": [
+      5653,
+      0.035
+    ],
+    "selfexpression:autumn_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:autumn_cowboy_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:autumn_suit_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:base_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:battle_boots": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:battle_royale_boots": [
+      5720,
+      0.028299998
+    ],
+    "selfexpression:beach_boots": [
+      5823,
+      0.018
+    ],
+    "selfexpression:blacksmith_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:blue_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:bogatyr_boots": [
+      5069,
+      0.9973453
+    ],
+    "selfexpression:bounty_hunter_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:builder_boots": [
+      5653,
+      0.035
+    ],
+    "selfexpression:captain_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:casual_autum_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:ceraplay_2004_boots": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:chemical_protection_boots": [
+      5502,
+      0.23071903
+    ],
+    "selfexpression:christmass_elf_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:combine_boots": [
+      4883,
+      1.2359076
+    ],
+    "selfexpression:comissioner_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:computer_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:copper_c_boots": [
+      5599,
+      0.0404
+    ],
+    "selfexpression:courier_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cowboy_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:cozy_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:crab_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:crusader_boots": [
+      5219,
+      0.8039249
+    ],
+    "selfexpression:cyber_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cyber_captain_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cyber_hunter_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cyber_police_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:dark_heart_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:dark_knight_boots": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:demon_hunter_boots": [
+      4883,
+      1.2359076
+    ],
+    "selfexpression:den_sychevski_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:desert_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:desert_shooter_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:dinosaur_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:djeksparrow_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:doctor_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:dragon_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:electro_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:emperor_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:engineer_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:festivity_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:fire_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:fixer_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:fox_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:future_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:gena_play_1_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:gloomy_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:gray_green_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:gray_jacket_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:green_shirt_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:group_leader_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:gunfighter_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:gunster_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:hev_boots": [
+      4522,
+      1.7022233
+    ],
+    "selfexpression:horseman_boots": [
+      5713,
+      0.028999997
+    ],
+    "selfexpression:improved_chemical_protection_boots": [
+      5312,
+      0.68114936
+    ],
+    "selfexpression:insulated_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:jester_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:knight_boots": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:last_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:lawer_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:light_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:lololowka_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:love_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:mafia_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:mandalorians_armor_boots": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:medieval_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:medieval_elite_hunter_boots": [
+      5692,
+      0.031099997
+    ],
+    "selfexpression:medieval_farmer_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:medieval_king_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:miner_boots": [
+      5653,
+      0.035
+    ],
+    "selfexpression:missing_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:mountain_ranger_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:nerkin_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:new_year_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:notch_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:officer_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:official_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:old_russian_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:orange_jacket_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:outlaw_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:philosopher_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:phoenix_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:polar_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:police_2_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:police_armor_boots": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:police_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:politic_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:prisoner_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:professor_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:promikmikkk_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:pumpkin_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:purple_hoodie_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:raincoat_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:rebel_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:red_boots": [
+      5667,
+      0.0336
+    ],
+    "selfexpression:red_shirt_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:red_shirt_n_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:red_soldier_boots": [
+      5599,
+      0.0404
+    ],
+    "selfexpression:redcriper_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:redynines_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:rogue_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:romantic_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:santa_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:scarecrow_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:selfexpression_jacket_boots": [
+      5823,
+      0.018
+    ],
+    "selfexpression:sheriff_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:shooter_boots": [
+      5713,
+      0.028999997
+    ],
+    "selfexpression:simple_autumn_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:simple_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:simple_red_jacket_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:sir_romawka_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:sniper_boots": [
+      5369,
+      0.6024908
+    ],
+    "selfexpression:snow_hunter_boots": [
+      5706,
+      0.0297
+    ],
+    "selfexpression:snow_soldier_boots": [
+      5502,
+      0.23071903
+    ],
+    "selfexpression:soldier_boots": [
+      5488,
+      0.37663084
+    ],
+    "selfexpression:space_pilot_boots": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:space_suit_boots": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:sporty_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:spring_boots": [
+      5823,
+      0.018
+    ],
+    "selfexpression:stalker_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:steampunk_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:stormtroopers_armor_boots": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:strict_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:subject_boots": [
+      5667,
+      0.0336
+    ],
+    "selfexpression:survived_agent_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:survivors_armor_boots": [
+      5439,
+      0.4942926
+    ],
+    "selfexpression:swat_boots": [
+      5319,
+      0.67169523
+    ],
+    "selfexpression:techeons_123_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:thiefs_armor_boots": [
+      5495,
+      0.33957827
+    ],
+    "selfexpression:tomy_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:tramp_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:twin_cultist_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:wanderer_2_boots": [
+      5439,
+      0.4942926
+    ],
+    "selfexpression:west_traveler_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:white_orange_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:white_shirt_boots": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:winter_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:wolfs_t_shirt_boots": [
+      5823,
+      0.018
+    ],
+    "selfexpression:woodworker_boots": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:yt_den_boom_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:zombie_hunter_boots": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:zombie_survivor_boots": [
+      5727,
+      0.0276
+    ],
+    "stalwart_dungeons:chorundum_armor_boots": [
+      3023,
+      5.394444
+    ],
+    "stalwart_dungeons:tungsten_boots": [
+      3551,
+      4.248896
+    ],
+    "stalwart_dungeons:warted_tungsten_boots": [
+      3551,
+      4.248896
+    ],
+    "the_bumblezone:carpenter_bee_boots_1": [
+      5448,
+      0.4779939
+    ],
+    "the_bumblezone:carpenter_bee_boots_2": [
+      5448,
+      0.4779939
+    ],
+    "theabyss:aberythe_armor_boots": [
+      3801,
+      3.6383376
+    ],
+    "theabyss:bone_armor_boots": [
+      4761,
+      1.3928432
+    ],
+    "theabyss:fusion_armor_boots": [
+      2357,
+      6.789111
+    ],
+    "theabyss:garnite_armor_boots": [
+      3271,
+      4.865798
+    ],
+    "theabyss:glacerythe_armor_boots": [
+      3978,
+      2.9227805
+    ],
+    "theabyss:ignisithe_armor_boots": [
+      3987,
+      2.819819
+    ],
+    "theabyss:incorythe_armor_boots": [
+      2275,
+      6.9599247
+    ],
+    "theabyss:phantom_armor_boots": [
+      3146,
+      5.133471
+    ],
+    "theabyss:unorithe_armor_boots": [
+      1663,
+      8.234071
+    ],
+    "tropicraft:fire_boots": [
+      5121,
+      0.9305621
+    ],
+    "tropicraft:pink_scuba_flippers": [
+      5998,
+      4.9999997E-4
+    ],
+    "tropicraft:scale_boots": [
+      5049,
+      1.0229998
+    ],
+    "tropicraft:yellow_scuba_flippers": [
+      5998,
+      4.9999997E-4
+    ],
+    "twilightforest:arctic_boots": [
+      4865,
+      1.2590272
+    ],
+    "twilightforest:fiery_boots": [
+      3473,
+      4.4243336
+    ],
+    "twilightforest:ironwood_boots": [
+      4764,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_boots": [
+      4223,
+      2.0932417
+    ],
+    "twilightforest:steeleaf_boots": [
+      4288,
+      2.0078652
+    ],
+    "twilightforest:yeti_boots": [
+      4175,
+      2.1564183
+    ],
+    "undergarden:cloggrum_boots": [
+      5029,
+      1.0486451
+    ],
+    "undergarden:froststeel_boots": [
+      4386,
+      1.8795317
+    ],
+    "undergarden:utherium_boots": [
+      4115,
+      2.235541
+    ],
+    "unusualend:warped_boots": [
+      5233,
+      0.7856766
+    ],
+    "vampirism:armor_of_swiftness_feet_enhanced": [
+      4903,
+      1.2102311
+    ],
+    "vampirism:armor_of_swiftness_feet_normal": [
+      5642,
+      0.036099996
+    ],
+    "vampirism:armor_of_swiftness_feet_ultimate": [
+      4168,
+      2.1656408
+    ],
+    "vampirism:hunter_coat_feet_enhanced": [
+      4174,
+      2.1577356
+    ],
+    "vampirism:hunter_coat_feet_normal": [
+      4930,
+      1.1755847
+    ],
+    "vampirism:hunter_coat_feet_ultimate": [
+      3414,
+      4.5548368
+    ],
+    "vampirism:vampire_clothing_boots": [
+      5627,
+      0.0376
+    ],
+    "vinery:winemaker_boots": [
+      5697,
+      0.030599998
+    ],
+    "werewolves:dark_pelt_boots": [
+      5609,
+      0.039399996
+    ],
+    "werewolves:pelt_boots": [
+      5789,
+      0.021399999
+    ],
+    "werewolves:silver_boots": [
+      4953,
+      1.1460843
+    ],
+    "werewolves:white_pelt_boots": [
+      5463,
+      0.44787866
+    ]
+  },
+  "LEGS": {
+    "ad_astra:jet_suit_pants": [
+      3143,
+      5.199434
+    ],
+    "ad_astra:netherite_space_pants": [
+      3969,
+      3.1634672
+    ],
+    "ad_astra:space_pants": [
+      4785,
+      1.397999
+    ],
+    "aether:gravitite_leggings": [
+      4146,
+      2.231581
+    ],
+    "aether:neptune_leggings": [
+      4976,
+      1.1524966
+    ],
+    "aether:obsidian_leggings": [
+      4084,
+      2.3135066
+    ],
+    "aether:phoenix_leggings": [
+      4146,
+      2.231581
+    ],
+    "aether:valkyrie_leggings": [
+      4146,
+      2.231581
+    ],
+    "aether:zanite_leggings": [
+      4981,
+      1.1460843
+    ],
+    "alexscaves:diving_leggings": [
+      4975,
+      1.1537791
+    ],
+    "alexscaves:gingerbread_leggings": [
+      5244,
+      0.8078281
+    ],
+    "alexscaves:hazmat_leggings": [
+      5176,
+      0.89580816
+    ],
+    "alexscaves:primordial_pants": [
+      5266,
+      0.7791448
+    ],
+    "alexsmobs:centipede_leggings": [
+      3725,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      4960,
+      1.173019
+    ],
+    "aquamirae:abyssal_leggings": [
+      4586,
+      1.6554433
+    ],
+    "aquamirae:terrible_leggings": [
+      4640,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_leggings": [
+      3978,
+      3.1174598
+    ],
+    "ars_nouveau:arcanist_leggings": [
+      4806,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_leggings": [
+      4046,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_leggings": [
+      5222,
+      0.8363856
+    ],
+    "beachparty:bikini": [
+      5829,
+      0.0202
+    ],
+    "beachparty:trunks": [
+      5829,
+      0.0202
+    ],
+    "blue_skies:aquite_leggings": [
+      4981,
+      1.1460843
+    ],
+    "blue_skies:charoite_leggings": [
+      4146,
+      2.231581
+    ],
+    "blue_skies:diopside_leggings": [
+      4665,
+      1.5530128
+    ],
+    "blue_skies:horizonite_leggings": [
+      5290,
+      0.74766654
+    ],
+    "blue_skies:pyrope_leggings": [
+      5290,
+      0.74766654
+    ],
+    "blue_skies:shadow_leggings": [
+      4123,
+      2.2619522
+    ],
+    "born_in_chaos_v1:dark_metal_armor_leggings": [
+      3075,
+      5.3436694
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_leggings": [
+      4277,
+      2.0590668
+    ],
+    "botania:elementium_leggings": [
+      4915,
+      1.2307714
+    ],
+    "botania:manasteel_leggings": [
+      4929,
+      1.2127981
+    ],
+    "botania:manaweave_leggings": [
+      5710,
+      0.0321
+    ],
+    "botania:terrasteel_leggings": [
+      4050,
+      2.3585079
+    ],
+    "brewery:brewfest_dress": [
+      5755,
+      0.0276
+    ],
+    "brewery:brewfest_trousers": [
+      5725,
+      0.030599998
+    ],
+    "call_of_yucutan:jades_leggings": [
+      4165,
+      2.2065098
+    ],
+    "candlelight:chefs_pants": [
+      5857,
+      0.0174
+    ],
+    "cataclysm:cursium_leggings": [
+      2385,
+      6.789111
+    ],
+    "cataclysm:ignitium_leggings": [
+      1175,
+      9.309818
+    ],
+    "deep_aether:skyjade_leggings": [
+      4410,
+      1.8847604
+    ],
+    "deep_aether:stratus_leggings": [
+      4090,
+      2.3055708
+    ],
+    "deeperdarker:resonarium_leggings": [
+      4475,
+      1.7998894
+    ],
+    "deeperdarker:warden_leggings": [
+      3190,
+      5.0993676
+    ],
+    "dungeonnowloading:spawner_leggings": [
+      4233,
+      2.1169202
+    ],
+    "herios_helian_mod:helian_alloy_armor_leggings": [
+      4655,
+      1.5659617
+    ],
+    "iceandfire:armor_amythest_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:armor_black_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:armor_blue_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:armor_bronze_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:armor_copper_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:armor_copper_metal_leggings": [
+      5541,
+      0.049
+    ],
+    "iceandfire:armor_electric_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:armor_gray_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:armor_green_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:armor_red_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:armor_sapphire_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:armor_silver_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:armor_silver_metal_leggings": [
+      5250,
+      0.80001926
+    ],
+    "iceandfire:armor_white_leggings": [
+      2996,
+      5.510578
+    ],
+    "iceandfire:deathworm_red_leggings": [
+      4744,
+      1.4508864
+    ],
+    "iceandfire:deathworm_white_leggings": [
+      4744,
+      1.4508864
+    ],
+    "iceandfire:deathworm_yellow_leggings": [
+      4744,
+      1.4508864
+    ],
+    "iceandfire:dragonsteel_fire_leggings": [
+      29,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_ice_leggings": [
+      29,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_lightning_leggings": [
+      29,
+      11.709396
+    ],
+    "iceandfire:forest_troll_leather_leggings": [
+      4685,
+      1.5271299
+    ],
+    "iceandfire:frost_troll_leather_leggings": [
+      4685,
+      1.5271299
+    ],
+    "iceandfire:mountain_troll_leather_leggings": [
+      4685,
+      1.5271299
+    ],
+    "iceandfire:myrmex_desert_leggings": [
+      4216,
+      2.1392972
+    ],
+    "iceandfire:myrmex_jungle_leggings": [
+      4216,
+      2.1392972
+    ],
+    "iceandfire:sheep_leggings": [
+      5725,
+      0.030599998
+    ],
+    "iceandfire:tide_blue_leggings": [
+      3573,
+      4.262535
+    ],
+    "iceandfire:tide_bronze_leggings": [
+      3573,
+      4.262535
+    ],
+    "iceandfire:tide_deepblue_leggings": [
+      3573,
+      4.262535
+    ],
+    "iceandfire:tide_green_leggings": [
+      3573,
+      4.262535
+    ],
+    "iceandfire:tide_purple_leggings": [
+      3573,
+      4.262535
+    ],
+    "iceandfire:tide_red_leggings": [
+      3573,
+      4.262535
+    ],
+    "iceandfire:tide_teal_leggings": [
+      3573,
+      4.262535
+    ],
+    "kawaiidishes:black_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:blue_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:brown_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:bunny_suit_socks": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:cyan_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:gray_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:green_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:light_blue_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:light_gray_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:lime_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:magenta_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:orange_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:pink_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:purple_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:red_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:white_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "kawaiidishes:yellow_thigh_highs": [
+      5041,
+      1.069158
+    ],
+    "minecraft:chainmail_leggings": [
+      5439,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      4523,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      5505,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      5191,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      5787,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      4396,
+      1.9030677
+    ],
+    "nethers_exoticism:kiwano_leggings": [
+      4981,
+      1.1460843
+    ],
+    "outer_end:cobalt_crystal_leggings": [
+      3944,
+      3.2725234
+    ],
+    "outer_end:mint_crystal_leggings": [
+      3944,
+      3.2725234
+    ],
+    "outer_end:rose_crystal_leggings": [
+      3944,
+      3.2725234
+    ],
+    "selfexpression:akool_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:android_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:aomori_leggings": [
+      5240,
+      0.8130289
+    ],
+    "selfexpression:apocalypse_slodier_leggings": [
+      5205,
+      0.8583848
+    ],
+    "selfexpression:apocalypsise_survivor_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:apron_leggings": [
+      5915,
+      0.0116
+    ],
+    "selfexpression:aremeh_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:artem_andr_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:assassin_leggings": [
+      5681,
+      0.035
+    ],
+    "selfexpression:autumn_cowboy_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:autumn_gardener_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:autumn_leaf_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:autumn_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:autumn_suit_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:base_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:battle_leggings": [
+      5275,
+      0.7673663
+    ],
+    "selfexpression:battle_royale_leggings": [
+      5748,
+      0.028299998
+    ],
+    "selfexpression:black_shirt_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:black_work_apron_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:blacksmith_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:blue_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:bogatyr_leggings": [
+      5097,
+      0.9973453
+    ],
+    "selfexpression:bounty_hunter_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:brown_empire_clothes_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:brown_shirt_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:builder_leggings": [
+      5681,
+      0.035
+    ],
+    "selfexpression:captain_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:captive_leggings": [
+      5915,
+      0.0116
+    ],
+    "selfexpression:casual_autum_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:ceraplay_2004_leggings": [
+      5275,
+      0.7673663
+    ],
+    "selfexpression:chemical_protection_leggings": [
+      5530,
+      0.23071903
+    ],
+    "selfexpression:christmass_elf_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:combine_leggings": [
+      4911,
+      1.2359076
+    ],
+    "selfexpression:comissioner_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:computer_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:coolness_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:copper_c_leggings": [
+      5627,
+      0.0404
+    ],
+    "selfexpression:cosmic_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:courier_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:cowboy_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:cozy_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:crab_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:crusader_leggings": [
+      5247,
+      0.8039249
+    ],
+    "selfexpression:cultist_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:cyber_captain_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:cyber_hunter_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:cyber_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:cyber_police_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:dark_heart_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:dark_knight_leggings": [
+      4981,
+      1.1460843
+    ],
+    "selfexpression:dark_wizzard_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:dead_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:death_king_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:dedik_insaidik_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:defender_leggings": [
+      5275,
+      0.7673663
+    ],
+    "selfexpression:demon_hunter_leggings": [
+      4911,
+      1.2359076
+    ],
+    "selfexpression:den_sychevski_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:desert_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:desert_shooter_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:dinosaur_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:djeksparrow_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:doctor_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:dragon_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:electro_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:emerald_a_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:emperor_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:engineer_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:festivity_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:fire_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:fixer_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:fox_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:future_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:galactic_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:gardener_leggings": [
+      5887,
+      0.014399999
+    ],
+    "selfexpression:garland_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:gena_play_1_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:gloomy_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:golden_empire_clothes_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:gray_empire_clothes_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:gray_green_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:gray_jacket_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:gray_undershirt_leggings": [
+      5887,
+      0.014399999
+    ],
+    "selfexpression:green_bathrobe_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:green_cloak_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:green_empire_clothes_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:green_jumpsuit_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:green_shirt_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:group_leader_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:gunfighter_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:gunster_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:half_moon_leggings": [
+      5887,
+      0.014399999
+    ],
+    "selfexpression:hawaii_leggings": [
+      5887,
+      0.014399999
+    ],
+    "selfexpression:hev_leggings": [
+      4550,
+      1.7022233
+    ],
+    "selfexpression:horseman_leggings": [
+      5741,
+      0.028999997
+    ],
+    "selfexpression:improved_chemical_protection_leggings": [
+      5340,
+      0.68114936
+    ],
+    "selfexpression:incognito_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:insulated_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:jester_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:knight_leggings": [
+      4981,
+      1.1460843
+    ],
+    "selfexpression:last_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:lawer_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:leaf_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:leather_cloak_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:leopard_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:light_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:liquidator_leggings": [
+      5275,
+      0.7673663
+    ],
+    "selfexpression:lololowka_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:love_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:mafia_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:mandalorians_armor_leggings": [
+      4981,
+      1.1460843
+    ],
+    "selfexpression:mcc_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:medieval_elite_hunter_leggings": [
+      5720,
+      0.031099997
+    ],
+    "selfexpression:medieval_farmer_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:medieval_king_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:medieval_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:mine_block_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:miner_leggings": [
+      5681,
+      0.035
+    ],
+    "selfexpression:missing_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:mountain_ranger_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:nerkin_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:new_year_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:notch_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:officer_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:official_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:old_coat_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:old_russian_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:orange_empire_clothes_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:orange_jacket_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:outlaw_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:philosopher_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:phoenix_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:pink_empire_clothes_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:plate_armor_leggings": [
+      4981,
+      1.1460843
+    ],
+    "selfexpression:polar_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:police_2_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:police_armor_leggings": [
+      5275,
+      0.7673663
+    ],
+    "selfexpression:police_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:politic_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:prisoner_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:professor_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:promikmikkk_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:pumpkin_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:purple_empire_clothes_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:purple_hoodie_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:raincoat_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:rebel_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:red_empire_clothes_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:red_leggings": [
+      5695,
+      0.0336
+    ],
+    "selfexpression:red_shirt_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:red_shirt_n_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:red_soldier_leggings": [
+      5627,
+      0.0404
+    ],
+    "selfexpression:redcriper_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:redynines_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:rob_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:rogue_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:romantic_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:santa_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:scarecrow_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:scientific_smock_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:selfexpression_jacket_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:sheriff_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:shooter_leggings": [
+      5741,
+      0.028999997
+    ],
+    "selfexpression:simple_autumn_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:simple_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:simple_red_jacket_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:sir_romawka_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:skilfulkit_leggings": [
+      5915,
+      0.0116
+    ],
+    "selfexpression:sniper_leggings": [
+      5397,
+      0.6024908
+    ],
+    "selfexpression:snow_hunter_leggings": [
+      5734,
+      0.0297
+    ],
+    "selfexpression:snow_soldier_leggings": [
+      5530,
+      0.23071903
+    ],
+    "selfexpression:snowman_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:soldier_leggings": [
+      5516,
+      0.37663084
+    ],
+    "selfexpression:space_pilot_leggings": [
+      5275,
+      0.7673663
+    ],
+    "selfexpression:space_suit_leggings": [
+      5275,
+      0.7673663
+    ],
+    "selfexpression:sporty_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:stalker_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:steampunk_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:stormtroopers_armor_leggings": [
+      4981,
+      1.1460843
+    ],
+    "selfexpression:strict_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:subject_leggings": [
+      5695,
+      0.0336
+    ],
+    "selfexpression:summer_bathrobe_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:survived_agent_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:survivors_armor_leggings": [
+      5467,
+      0.4942926
+    ],
+    "selfexpression:swat_leggings": [
+      5347,
+      0.67169523
+    ],
+    "selfexpression:taiga_hunter_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:techeons_123_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:thiefs_armor_leggings": [
+      5523,
+      0.33957827
+    ],
+    "selfexpression:tomy_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:tracksuit_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:tramp_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:twin_cultist_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:vampirs_mantle_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:wanderer_2_leggings": [
+      5467,
+      0.4942926
+    ],
+    "selfexpression:west_traveler_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:white_empire_clothes_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:white_orange_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:winter_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:woodworker_leggings": [
+      5807,
+      0.0224
+    ],
+    "selfexpression:work_apron_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:years_jacket_leggings": [
+      5887,
+      0.014399999
+    ],
+    "selfexpression:yellow_empire_clothes_leggings": [
+      5851,
+      0.018
+    ],
+    "selfexpression:yt_den_boom_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:zombie_hunter_leggings": [
+      5755,
+      0.0276
+    ],
+    "selfexpression:zombie_survivor_leggings": [
+      5755,
+      0.0276
+    ],
+    "stalwart_dungeons:chorundum_armor_leggings": [
+      3051,
+      5.394444
+    ],
+    "stalwart_dungeons:tungsten_leggings": [
+      3579,
+      4.248896
+    ],
+    "stalwart_dungeons:warted_tungsten_leggings": [
+      3579,
+      4.248896
+    ],
+    "the_bumblezone:honey_bee_leggings_1": [
+      5476,
+      0.4779939
+    ],
+    "the_bumblezone:honey_bee_leggings_2": [
+      5476,
+      0.4779939
+    ],
+    "theabyss:aberythe_armor_leggings": [
+      3829,
+      3.6383376
+    ],
+    "theabyss:bone_armor_leggings": [
+      4789,
+      1.3928432
+    ],
+    "theabyss:fusion_armor_leggings": [
+      2385,
+      6.789111
+    ],
+    "theabyss:garnite_armor_leggings": [
+      3299,
+      4.865798
+    ],
+    "theabyss:glacerythe_armor_leggings": [
+      4006,
+      2.9227805
+    ],
+    "theabyss:ignisithe_armor_leggings": [
+      4015,
+      2.819819
+    ],
+    "theabyss:incorythe_armor_leggings": [
+      2303,
+      6.9599247
+    ],
+    "theabyss:phantom_armor_leggings": [
+      3174,
+      5.133471
+    ],
+    "theabyss:unorithe_armor_leggings": [
+      1691,
+      8.234071
+    ],
+    "tropicraft:fire_leggings": [
+      5170,
+      0.9035375
+    ],
+    "tropicraft:scale_leggings": [
+      5078,
+      1.0217173
+    ],
+    "twilightforest:arctic_leggings": [
+      4893,
+      1.2590272
+    ],
+    "twilightforest:fiery_leggings": [
+      3501,
+      4.4243336
+    ],
+    "twilightforest:ironwood_leggings": [
+      4792,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_leggings": [
+      4251,
+      2.0932417
+    ],
+    "twilightforest:naga_leggings": [
+      4513,
+      1.7503701
+    ],
+    "twilightforest:steeleaf_leggings": [
+      4316,
+      2.0078652
+    ],
+    "twilightforest:yeti_leggings": [
+      4203,
+      2.1564183
+    ],
+    "undergarden:ancient_leggings": [
+      4988,
+      1.1371077
+    ],
+    "undergarden:cloggrum_leggings": [
+      5057,
+      1.0486451
+    ],
+    "undergarden:froststeel_leggings": [
+      4414,
+      1.8795317
+    ],
+    "undergarden:utherium_leggings": [
+      4143,
+      2.235541
+    ],
+    "unusualend:spectral_leggings": [
+      5660,
+      0.0371
+    ],
+    "vampirism:armor_of_swiftness_legs_enhanced": [
+      4931,
+      1.2102311
+    ],
+    "vampirism:armor_of_swiftness_legs_normal": [
+      5670,
+      0.036099996
+    ],
+    "vampirism:armor_of_swiftness_legs_ultimate": [
+      4196,
+      2.1656408
+    ],
+    "vampirism:hunter_coat_legs_enhanced": [
+      4202,
+      2.1577356
+    ],
+    "vampirism:hunter_coat_legs_normal": [
+      4958,
+      1.1755847
+    ],
+    "vampirism:hunter_coat_legs_ultimate": [
+      3442,
+      4.5548368
+    ],
+    "vampirism:vampire_clothing_legs": [
+      5655,
+      0.0376
+    ],
+    "vinery:winemaker_leggings": [
+      5725,
+      0.030599998
+    ],
+    "werewolves:dark_pelt_leggings": [
+      5637,
+      0.039399996
+    ],
+    "werewolves:pelt_leggings": [
+      5817,
+      0.021399999
+    ],
+    "werewolves:silver_leggings": [
+      4981,
+      1.1460843
+    ],
+    "werewolves:white_pelt_leggings": [
+      5491,
+      0.44787866
+    ]
+  },
+  "CHEST": {
+    "ad_astra:jet_suit": [
+      3152,
+      5.120687
+    ],
+    "ad_astra:netherite_space_suit": [
+      3977,
+      2.9321702
+    ],
+    "ad_astra:space_suit": [
+      4791,
+      1.3541976
+    ],
+    "aether:gravitite_chestplate": [
+      4118,
+      2.231581
+    ],
+    "aether:neptune_chestplate": [
+      4948,
+      1.1524966
+    ],
+    "aether:obsidian_chestplate": [
+      4056,
+      2.3135066
+    ],
+    "aether:phoenix_chestplate": [
+      4118,
+      2.231581
+    ],
+    "aether:valkyrie_chestplate": [
+      4118,
+      2.231581
+    ],
+    "aether:zanite_chestplate": [
+      4953,
+      1.1460843
+    ],
+    "alexscaves:cloak_of_darkness": [
+      5300,
+      0.6972618
+    ],
+    "alexscaves:diving_chestplate": [
+      4963,
+      1.1332608
+    ],
+    "alexscaves:gingerbread_chestplate": [
+      5224,
+      0.7974141
+    ],
+    "alexscaves:hazmat_chestplate": [
+      5165,
+      0.87388456
+    ],
+    "alexscaves:primordial_tunic": [
+      5255,
+      0.7568712
+    ],
+    "alexsmobs:crocodile_chestplate": [
+      4721,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      4800,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      5148,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      5371,
+      0.59963983
+    ],
+    "aquamirae:abyssal_brigantine": [
+      4558,
+      1.6554433
+    ],
+    "aquamirae:terrible_chestplate": [
+      4612,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_suit": [
+      3950,
+      3.1174598
+    ],
+    "ars_nouveau:arcanist_robes": [
+      4778,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_robes": [
+      4018,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_robes": [
+      5194,
+      0.8363856
+    ],
+    "beachparty:rubber_ring_axolotl": [
+      5801,
+      0.0202
+    ],
+    "beachparty:rubber_ring_blue": [
+      5801,
+      0.0202
+    ],
+    "beachparty:rubber_ring_pelican": [
+      5801,
+      0.0202
+    ],
+    "beachparty:rubber_ring_pink": [
+      5801,
+      0.0202
+    ],
+    "beachparty:rubber_ring_stripped": [
+      5801,
+      0.0202
+    ],
+    "beachparty:swim_wings": [
+      5801,
+      0.0202
+    ],
+    "blue_skies:aquite_chestplate": [
+      4953,
+      1.1460843
+    ],
+    "blue_skies:charoite_chestplate": [
+      4118,
+      2.231581
+    ],
+    "blue_skies:diopside_chestplate": [
+      4637,
+      1.5530128
+    ],
+    "blue_skies:horizonite_chestplate": [
+      5262,
+      0.74766654
+    ],
+    "blue_skies:pyrope_chestplate": [
+      5262,
+      0.74766654
+    ],
+    "blue_skies:shadow_chestplate": [
+      4095,
+      2.2619522
+    ],
+    "born_in_chaos_v1:dark_metal_armor_chestplate": [
+      3047,
+      5.3436694
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_chestplate": [
+      4249,
+      2.0590668
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_chestplate": [
+      5413,
+      0.53719383
+    ],
+    "bossominium:desert_necklace_chestplate": [
+      4884,
+      1.2346236
+    ],
+    "bossominium:necklace_of_invis_chestplate": [
+      5287,
+      0.71460015
+    ],
+    "bossominium:skelenado_chest_chestplate": [
+      5141,
+      0.9048254
+    ],
+    "botania:elementium_chestplate": [
+      4887,
+      1.2307714
+    ],
+    "botania:manasteel_chestplate": [
+      4901,
+      1.2127981
+    ],
+    "botania:manaweave_chestplate": [
+      5682,
+      0.0321
+    ],
+    "botania:terrasteel_chestplate": [
+      4022,
+      2.3585079
+    ],
+    "brewery:brewfest_blouse": [
+      5727,
+      0.0276
+    ],
+    "brewery:brewfest_regalia": [
+      5697,
+      0.030599998
+    ],
+    "call_of_yucutan:jades_chestplate": [
+      4137,
+      2.2065098
+    ],
+    "candlelight:chefs_jacket": [
+      5829,
+      0.0174
+    ],
+    "candlelight:gold_ring": [
+      5893,
+      0.011
+    ],
+    "cataclysm:bloom_stone_pauldrons": [
+      3968,
+      3.0056863
+    ],
+    "cataclysm:bone_reptile_chestplate": [
+      2188,
+      7.1410875
+    ],
+    "cataclysm:cursium_chestplate": [
+      2357,
+      6.789111
+    ],
+    "cataclysm:ignitium_chestplate": [
+      1147,
+      9.309818
+    ],
+    "cataclysm:ignitium_elytra_chestplate": [
+      1147,
+      9.309818
+    ],
+    "deep_aether:skyjade_chestplate": [
+      4382,
+      1.8847604
+    ],
+    "deep_aether:stratus_chestplate": [
+      4062,
+      2.3055708
+    ],
+    "deeperdarker:resonarium_chestplate": [
+      4447,
+      1.7998894
+    ],
+    "deeperdarker:warden_chestplate": [
+      3162,
+      5.0993676
+    ],
+    "dungeonnowloading:spawner_chestplate": [
+      4229,
+      2.0853524
+    ],
+    "herios_helian_mod:helian_alloy_armor_chestplate": [
+      4627,
+      1.5659617
+    ],
+    "iceandfire:armor_amythest_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_black_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_blue_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_bronze_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_copper_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_copper_metal_chestplate": [
+      5513,
+      0.049
+    ],
+    "iceandfire:armor_electric_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_gray_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_green_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_red_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_sapphire_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_silver_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_silver_metal_chestplate": [
+      5222,
+      0.80001926
+    ],
+    "iceandfire:armor_white_chestplate": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:deathworm_red_chestplate": [
+      4716,
+      1.4508864
+    ],
+    "iceandfire:deathworm_white_chestplate": [
+      4716,
+      1.4508864
+    ],
+    "iceandfire:deathworm_yellow_chestplate": [
+      4716,
+      1.4508864
+    ],
+    "iceandfire:dragonsteel_fire_chestplate": [
+      1,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_ice_chestplate": [
+      1,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_lightning_chestplate": [
+      1,
+      11.709396
+    ],
+    "iceandfire:forest_troll_leather_chestplate": [
+      4657,
+      1.5271299
+    ],
+    "iceandfire:frost_troll_leather_chestplate": [
+      4657,
+      1.5271299
+    ],
+    "iceandfire:mountain_troll_leather_chestplate": [
+      4657,
+      1.5271299
+    ],
+    "iceandfire:myrmex_desert_chestplate": [
+      4188,
+      2.1392972
+    ],
+    "iceandfire:myrmex_jungle_chestplate": [
+      4188,
+      2.1392972
+    ],
+    "iceandfire:sheep_chestplate": [
+      5697,
+      0.030599998
+    ],
+    "iceandfire:tide_blue_chestplate": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_bronze_chestplate": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_deepblue_chestplate": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_green_chestplate": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_purple_chestplate": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_red_chestplate": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_teal_chestplate": [
+      3545,
+      4.262535
+    ],
+    "kawaiidishes:black_bunny_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:black_cat_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:black_devil_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:black_fox_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:black_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:black_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:black_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:blue_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:blue_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_fox_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:brown_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:brown_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:brown_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:bunny_suit_black_tail": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:bunny_suit_caramel_tail": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:bunny_suit_white_tail": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:caramel_bunny_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:caramel_cat_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:cyan_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:cyan_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:cyan_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:gray_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:gray_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:green_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:green_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:light_blue_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_blue_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:light_gray_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:light_gray_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:lime_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:lime_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:magenta_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:magenta_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:orange_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:orange_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:pink_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:pink_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_devil_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:purple_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:purple_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:purple_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_devil_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:red_fox_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:red_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:red_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:red_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_bunny_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:white_cat_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:white_fox_tail": [
+      5143,
+      0.90224946
+    ],
+    "kawaiidishes:white_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:white_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:white_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress": [
+      5013,
+      1.069158
+    ],
+    "kawaiidishes:yellow_maid_dress_bunny_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_bunny_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_bunny_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_cat_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_cat_tail_caramel": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_cat_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_devil_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_devil_tail_purple": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_devil_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_fox_tail_black": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_fox_tail_brown": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_fox_tail_red": [
+      3300,
+      4.8032217
+    ],
+    "kawaiidishes:yellow_maid_dress_fox_tail_white": [
+      3300,
+      4.8032217
+    ],
+    "minecraft:chainmail_chestplate": [
+      5411,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      4495,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      5477,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      5163,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      5759,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      4368,
+      1.9030677
+    ],
+    "nethers_exoticism:kiwano_chestplate": [
+      4953,
+      1.1460843
+    ],
+    "outer_end:cobalt_crystal_chestplate": [
+      3916,
+      3.2725234
+    ],
+    "outer_end:mint_crystal_chestplate": [
+      3916,
+      3.2725234
+    ],
+    "outer_end:rose_crystal_chestplate": [
+      3916,
+      3.2725234
+    ],
+    "selfexpression:akool_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:android_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:aomori_chestplate": [
+      5212,
+      0.8130289
+    ],
+    "selfexpression:apocalypse_slodier_chestplate": [
+      5177,
+      0.8583848
+    ],
+    "selfexpression:apocalypsise_survivor_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:apron_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:aremeh_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:armband_chestplate": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:artem_andr_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:assassin_chestplate": [
+      5653,
+      0.035
+    ],
+    "selfexpression:autumn_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:autumn_cowboy_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:autumn_gardener_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:autumn_jacket_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:autumn_leaf_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:autumn_suit_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:back_mounted_patronage_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:balaclava_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:base_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:battle_chestplate": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:battle_royale_chestplate": [
+      5720,
+      0.028299998
+    ],
+    "selfexpression:beach_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:bee_t_shirt_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:black_scarf_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:black_shirt_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:black_t_shirt_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:black_work_apron_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:blacksmith_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:blue_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:blue_jacket_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:blue_scarf_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:blue_t_shirt_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:bodyarmor_chestplate": [
+      5741,
+      0.026199998
+    ],
+    "selfexpression:bogatyr_chestplate": [
+      5069,
+      0.9973453
+    ],
+    "selfexpression:bounty_hunter_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:brown_empire_clothes_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:brown_shirt_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:builder_chestplate": [
+      5653,
+      0.035
+    ],
+    "selfexpression:captain_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:captive_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:casual_autum_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cave_game_hoodie_chestplate": [
+      5817,
+      0.0186
+    ],
+    "selfexpression:ceraplay_2004_chestplate": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:chemical_protection_chestplate": [
+      5502,
+      0.23071903
+    ],
+    "selfexpression:christmass_elf_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:clown_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:combine_chestplate": [
+      4883,
+      1.2359076
+    ],
+    "selfexpression:comissioner_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:computer_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:coolness_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:copper_c_chestplate": [
+      5599,
+      0.0404
+    ],
+    "selfexpression:cosmic_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:courier_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cowboy_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:cozy_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:crab_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:crusader_chestplate": [
+      5219,
+      0.8039249
+    ],
+    "selfexpression:cultist_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:cyber_captain_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cyber_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cyber_hunter_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cyber_police_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:dark_heart_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:dark_knight_chestplate": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:dark_wizzard_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:dead_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:death_king_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:dedik_insaidik_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:defender_chestplate": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:demon_hunter_chestplate": [
+      4883,
+      1.2359076
+    ],
+    "selfexpression:den_sychevski_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:desert_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:desert_shooter_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:dinosaur_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:divers_mask_chestplate": [
+      5767,
+      0.023599999
+    ],
+    "selfexpression:djeksparrow_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:doctor_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:dragon_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:dreams_mask_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:electro_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:emerald_a_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:emperor_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:engineer_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:festivity_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:fire_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:fixer_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:fox_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:frogs_cap_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:future_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:future_hoodie_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:galactic_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:gardener_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:garland_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:gauze_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:gena_play_1_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:glass_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:gloomy_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:golden_boss_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:golden_empire_clothes_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:gray_empire_clothes_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:gray_green_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:gray_hood_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:gray_jacket_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:gray_scarf_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:gray_undershirt_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:green_bathrobe_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:green_cloak_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:green_empire_clothes_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:green_jumpsuit_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:green_red_scarfcraft_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:green_scarf_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:green_shirt_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:green_white_t_shirt_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:group_leader_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:gunfighter_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:gunster_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:half_moon_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:hawaii_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:hev_chestplate": [
+      4522,
+      1.7022233
+    ],
+    "selfexpression:horseman_chestplate": [
+      5713,
+      0.028999997
+    ],
+    "selfexpression:improved_chemical_protection_chestplate": [
+      5312,
+      0.68114936
+    ],
+    "selfexpression:incognito_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:inflatable_duck_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:insulated_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:jester_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:kings_cloak_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:knight_chestplate": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:last_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:lawer_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:leaders_tape_chestplate": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:leaf_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:leather_cloak_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:leopard_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:light_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:liquidator_chestplate": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:lololowka_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:love_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:mafia_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:mandalorians_armor_chestplate": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:mapel_leaf_sweater_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:mcc_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:medieval_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:medieval_elite_hunter_chestplate": [
+      5692,
+      0.031099997
+    ],
+    "selfexpression:medieval_farmer_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:medieval_king_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:mine_block_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:miner_chestplate": [
+      5653,
+      0.035
+    ],
+    "selfexpression:missing_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:monocle_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:mountain_ranger_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:nerkin_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:new_year_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:ninja_hood_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:notch_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:officer_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:official_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:old_coat_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:old_russian_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:orange_empire_clothes_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:orange_jacket_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:outlaw_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:pancake_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:philosopher_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:phoenix_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:pilots_helmet_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:pink_empire_clothes_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:pink_scarf_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:plaid_j_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:plate_armor_chestplate": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:polar_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:police_2_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:police_armor_chestplate": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:police_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:politic_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:prisoner_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:professor_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:promikmikkk_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:pumpkin_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:purple_empire_clothes_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:purple_hoodie_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:raincoat_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:rams_horns_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:rebel_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:red_chestplate": [
+      5667,
+      0.0336
+    ],
+    "selfexpression:red_empire_clothes_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:red_jacket_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:red_scarf_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:red_shirt_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:red_shirt_n_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:red_soldier_chestplate": [
+      5599,
+      0.0404
+    ],
+    "selfexpression:red_sweater_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:redcriper_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:redynines_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:rob_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:rogue_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:romantic_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:russian_cap_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:santa_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:scarecrow_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:scientific_smock_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:selfexpression_jacket_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:sheriff_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:shooter_chestplate": [
+      5713,
+      0.028999997
+    ],
+    "selfexpression:simple_autumn_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:simple_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:simple_red_jacket_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:sir_romawka_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:skilfulkit_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:sniffer_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:sniper_chestplate": [
+      5369,
+      0.6024908
+    ],
+    "selfexpression:snow_hunter_chestplate": [
+      5706,
+      0.0297
+    ],
+    "selfexpression:snow_soldier_chestplate": [
+      5502,
+      0.23071903
+    ],
+    "selfexpression:snowman_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:soldier_chestplate": [
+      5488,
+      0.37663084
+    ],
+    "selfexpression:space_pilot_chestplate": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:space_suit_chestplate": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:sporty_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:spring_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:stalker_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:steampunk_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:stormtroopers_armor_chestplate": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:strict_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:subject_chestplate": [
+      5667,
+      0.0336
+    ],
+    "selfexpression:summer_bathrobe_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:sunshine_hoody_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:survived_agent_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:survivors_armor_chestplate": [
+      5439,
+      0.4942926
+    ],
+    "selfexpression:swat_chestplate": [
+      5319,
+      0.67169523
+    ],
+    "selfexpression:sweater_with_deer_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:t_shirt_hfs_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:tactical_chestplate": [
+      5597,
+      0.040599998
+    ],
+    "selfexpression:taiga_hunter_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:tape_chestplate": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:techeons_123_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:thiefs_armor_chestplate": [
+      5495,
+      0.33957827
+    ],
+    "selfexpression:thiefs_hood_chestplate": [
+      5592,
+      0.0411
+    ],
+    "selfexpression:tomy_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:tracksuit_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:tramp_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:tropic_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:truckmans_cap_chestplate": [
+      5747,
+      0.0256
+    ],
+    "selfexpression:twin_cultist_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:vampirs_mantle_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:vinous_sweater_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:wanderer_2_chestplate": [
+      5439,
+      0.4942926
+    ],
+    "selfexpression:wanderer_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:warm_coat_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:welders_mask_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:west_traveler_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:white_empire_clothes_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:white_orange_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:white_red_scarf_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:white_scarf_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:white_shirt_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:white_t_shirt_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:winter_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:wolfs_skin_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:wolfs_t_shirt_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:woodworker_chestplate": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:wool_scarf_chestplate": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:work_apron_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:year_jacket_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:year_sweater_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:years_jacket_chestplate": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:yellow_empire_clothes_chestplate": [
+      5823,
+      0.018
+    ],
+    "selfexpression:yellow_t_shirt_chestplate": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:yt_den_boom_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:zombie_hunter_chestplate": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:zombie_survivor_chestplate": [
+      5727,
+      0.0276
+    ],
+    "stalwart_dungeons:chorundum_armor_chestplate": [
+      3023,
+      5.394444
+    ],
+    "stalwart_dungeons:tungsten_chestplate": [
+      3551,
+      4.248896
+    ],
+    "stalwart_dungeons:warted_tungsten_chestplate": [
+      3551,
+      4.248896
+    ],
+    "the_bumblezone:bumble_bee_chestplate_1": [
+      5448,
+      0.4779939
+    ],
+    "the_bumblezone:bumble_bee_chestplate_2": [
+      5448,
+      0.4779939
+    ],
+    "the_bumblezone:bumble_bee_chestplate_trans_1": [
+      5448,
+      0.4779939
+    ],
+    "the_bumblezone:bumble_bee_chestplate_trans_2": [
+      5448,
+      0.4779939
+    ],
+    "theabyss:aberythe_armor_chestplate": [
+      3801,
+      3.6383376
+    ],
+    "theabyss:bone_armor_chestplate": [
+      4761,
+      1.3928432
+    ],
+    "theabyss:fusion_armor_chestplate": [
+      2357,
+      6.789111
+    ],
+    "theabyss:garnite_armor_chestplate": [
+      3271,
+      4.865798
+    ],
+    "theabyss:glacerythe_armor_chestplate": [
+      3978,
+      2.9227805
+    ],
+    "theabyss:ignisithe_armor_chestplate": [
+      3987,
+      2.819819
+    ],
+    "theabyss:incorythe_armor_chestplate": [
+      2275,
+      6.9599247
+    ],
+    "theabyss:phantom_armor_chestplate": [
+      3146,
+      5.133471
+    ],
+    "theabyss:unorithe_armor_chestplate": [
+      1663,
+      8.234071
+    ],
+    "tropicraft:fire_chestplate": [
+      5151,
+      0.89194185
+    ],
+    "tropicraft:pink_scuba_harness": [
+      5999,
+      4.0E-4
+    ],
+    "tropicraft:scale_chestplate": [
+      5051,
+      1.0204347
+    ],
+    "tropicraft:yellow_scuba_harness": [
+      5999,
+      4.0E-4
+    ],
+    "twilightforest:arctic_chestplate": [
+      4865,
+      1.2590272
+    ],
+    "twilightforest:fiery_chestplate": [
+      3473,
+      4.4243336
+    ],
+    "twilightforest:ironwood_chestplate": [
+      4764,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_chestplate": [
+      4223,
+      2.0932417
+    ],
+    "twilightforest:naga_chestplate": [
+      4485,
+      1.7503701
+    ],
+    "twilightforest:phantom_chestplate": [
+      4146,
+      2.1946402
+    ],
+    "twilightforest:steeleaf_chestplate": [
+      4288,
+      2.0078652
+    ],
+    "twilightforest:yeti_chestplate": [
+      4175,
+      2.1564183
+    ],
+    "undergarden:ancient_chestplate": [
+      4960,
+      1.1371077
+    ],
+    "undergarden:cloggrum_chestplate": [
+      5029,
+      1.0486451
+    ],
+    "undergarden:froststeel_chestplate": [
+      4386,
+      1.8795317
+    ],
+    "undergarden:masticated_chestplate": [
+      3555,
+      4.239789
+    ],
+    "undergarden:utherium_chestplate": [
+      4115,
+      2.235541
+    ],
+    "unusualend:warped_chestplate": [
+      5233,
+      0.7856766
+    ],
+    "vampirism:armor_of_swiftness_chest_enhanced": [
+      4903,
+      1.2102311
+    ],
+    "vampirism:armor_of_swiftness_chest_normal": [
+      5642,
+      0.036099996
+    ],
+    "vampirism:armor_of_swiftness_chest_ultimate": [
+      4168,
+      2.1656408
+    ],
+    "vampirism:hunter_coat_chest_enhanced": [
+      4174,
+      2.1577356
+    ],
+    "vampirism:hunter_coat_chest_normal": [
+      4930,
+      1.1755847
+    ],
+    "vampirism:hunter_coat_chest_ultimate": [
+      3414,
+      4.5548368
+    ],
+    "vampirism:vampire_cloak_black_blue": [
+      5627,
+      0.0376
+    ],
+    "vampirism:vampire_cloak_black_red": [
+      5627,
+      0.0376
+    ],
+    "vampirism:vampire_cloak_black_white": [
+      5627,
+      0.0376
+    ],
+    "vampirism:vampire_cloak_red_black": [
+      5627,
+      0.0376
+    ],
+    "vampirism:vampire_cloak_white_black": [
+      5627,
+      0.0376
+    ],
+    "vinery:winemaker_apron": [
+      5697,
+      0.030599998
+    ],
+    "werewolves:dark_pelt_chestplate": [
+      5609,
+      0.039399996
+    ],
+    "werewolves:pelt_chestplate": [
+      5789,
+      0.021399999
+    ],
+    "werewolves:silver_chestplate": [
+      4953,
+      1.1460843
+    ],
+    "werewolves:white_pelt_chestplate": [
+      5463,
+      0.44787866
+    ]
+  },
+  "HEAD": {
+    "ad_astra:jet_suit_helmet": [
+      3070,
+      5.2949486
+    ],
+    "ad_astra:netherite_space_helmet": [
+      3910,
+      3.2958906
+    ],
+    "ad_astra:space_helmet": [
+      4727,
+      1.4366896
+    ],
+    "aether:gravitite_helmet": [
+      4118,
+      2.231581
+    ],
+    "aether:neptune_helmet": [
+      4948,
+      1.1524966
+    ],
+    "aether:obsidian_helmet": [
+      4056,
+      2.3135066
+    ],
+    "aether:phoenix_helmet": [
+      4118,
+      2.231581
+    ],
+    "aether:valkyrie_helmet": [
+      4118,
+      2.231581
+    ],
+    "aether:zanite_helmet": [
+      4953,
+      1.1460843
+    ],
+    "alexscaves:diving_helmet": [
+      4932,
+      1.173019
+    ],
+    "alexscaves:gingerbread_helmet": [
+      5209,
+      0.8169267
+    ],
+    "alexscaves:hazmat_mask": [
+      5134,
+      0.91383743
+    ],
+    "alexscaves:hood_of_darkness": [
+      5276,
+      0.7291897
+    ],
+    "alexscaves:primordial_helmet": [
+      5224,
+      0.7974141
+    ],
+    "alexsmobs:fedora": [
+      5564,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      5258,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      5351,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      5249,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      5564,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      5535,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      4999,
+      1.0871058
+    ],
+    "aquamirae:abyssal_heaume": [
+      4558,
+      1.6554433
+    ],
+    "aquamirae:abyssal_tiara": [
+      4219,
+      2.0985024
+    ],
+    "aquamirae:terrible_helmet": [
+      4612,
+      1.5853943
+    ],
+    "aquamirae:three_bolt_helmet": [
+      3950,
+      3.1174598
+    ],
+    "ars_nouveau:arcanist_hood": [
+      4778,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_hood": [
+      4018,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_hood": [
+      5194,
+      0.8363856
+    ],
+    "beachparty:beach_hat": [
+      5783,
+      0.022
+    ],
+    "beachparty:sunglasses": [
+      5783,
+      0.022
+    ],
+    "blue_skies:aquite_helmet": [
+      4953,
+      1.1460843
+    ],
+    "blue_skies:charoite_helmet": [
+      4118,
+      2.231581
+    ],
+    "blue_skies:diopside_helmet": [
+      4637,
+      1.5530128
+    ],
+    "blue_skies:horizonite_helmet": [
+      5262,
+      0.74766654
+    ],
+    "blue_skies:pyrope_helmet": [
+      5262,
+      0.74766654
+    ],
+    "blue_skies:shadow_helmet": [
+      4095,
+      2.2619522
+    ],
+    "boh:deer_mask_helmet": [
+      4995,
+      1.0922337
+    ],
+    "boh:goji_head_helmet": [
+      5275,
+      0.73051274
+    ],
+    "born_in_chaos_v1:damned_demomans_hat_helmet": [
+      5702,
+      0.0301
+    ],
+    "born_in_chaos_v1:dark_metal_armor_helmet": [
+      3047,
+      5.3436694
+    ],
+    "born_in_chaos_v1:lord_pumpkinheads_hat_helmet": [
+      3741,
+      3.7963035
+    ],
+    "born_in_chaos_v1:missionary_hat_helmet": [
+      5602,
+      0.040099997
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_helmet": [
+      4249,
+      2.0590668
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_helmet": [
+      5413,
+      0.53719383
+    ],
+    "born_in_chaos_v1:spiritual_guide_sombrero_helmet": [
+      5622,
+      0.038099997
+    ],
+    "bossominium:ancient_helm_helmet": [
+      4640,
+      1.5491292
+    ],
+    "botania:elementium_helmet": [
+      4887,
+      1.2307714
+    ],
+    "botania:manasteel_helmet": [
+      4901,
+      1.2127981
+    ],
+    "botania:manaweave_helmet": [
+      5682,
+      0.0321
+    ],
+    "botania:terrasteel_helmet": [
+      4022,
+      2.3585079
+    ],
+    "brewery:brewfest_hat": [
+      5697,
+      0.030599998
+    ],
+    "brewery:brewfest_hat_red": [
+      5697,
+      0.030599998
+    ],
+    "call_of_yucutan:huracan_helmet": [
+      4358,
+      1.9161502
+    ],
+    "call_of_yucutan:jades_helmet": [
+      4137,
+      2.2065098
+    ],
+    "call_of_yucutan:monkey_helmet": [
+      4358,
+      1.9161502
+    ],
+    "call_of_yucutan:warrior_helmet": [
+      4358,
+      1.9161502
+    ],
+    "candlelight:cooking_hat": [
+      5829,
+      0.0174
+    ],
+    "cataclysm:bone_reptile_helmet": [
+      2188,
+      7.1410875
+    ],
+    "cataclysm:cursium_helmet": [
+      2357,
+      6.789111
+    ],
+    "cataclysm:ignitium_helmet": [
+      1147,
+      9.309818
+    ],
+    "cataclysm:monstrous_helm": [
+      4368,
+      1.9030677
+    ],
+    "deep_aether:skyjade_helmet": [
+      4382,
+      1.8847604
+    ],
+    "deep_aether:stratus_helmet": [
+      4062,
+      2.3055708
+    ],
+    "deeperdarker:resonarium_helmet": [
+      4447,
+      1.7998894
+    ],
+    "deeperdarker:warden_helmet": [
+      3162,
+      5.0993676
+    ],
+    "dungeonnowloading:spawner_helmet": [
+      4184,
+      2.1445646
+    ],
+    "friendsandfoes:wildfire_crown": [
+      4860,
+      1.2654512
+    ],
+    "herbalbrews:top_hat": [
+      5759,
+      0.0244
+    ],
+    "herbalbrews:witch_hat": [
+      5759,
+      0.0244
+    ],
+    "herios_helian_mod:helian_alloy_armor_helmet": [
+      4627,
+      1.5659617
+    ],
+    "iceandfire:armor_amythest_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_black_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_blue_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_bronze_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_copper_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_copper_metal_helmet": [
+      5513,
+      0.049
+    ],
+    "iceandfire:armor_electric_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_gray_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_green_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_red_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_sapphire_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_silver_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:armor_silver_metal_helmet": [
+      5222,
+      0.80001926
+    ],
+    "iceandfire:armor_white_helmet": [
+      2968,
+      5.510578
+    ],
+    "iceandfire:blindfold": [
+      5854,
+      0.0149
+    ],
+    "iceandfire:deathworm_red_helmet": [
+      4716,
+      1.4508864
+    ],
+    "iceandfire:deathworm_white_helmet": [
+      4716,
+      1.4508864
+    ],
+    "iceandfire:deathworm_yellow_helmet": [
+      4716,
+      1.4508864
+    ],
+    "iceandfire:dragonsteel_fire_helmet": [
+      1,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_ice_helmet": [
+      1,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_lightning_helmet": [
+      1,
+      11.709396
+    ],
+    "iceandfire:earplugs": [
+      5854,
+      0.0149
+    ],
+    "iceandfire:forest_troll_leather_helmet": [
+      4657,
+      1.5271299
+    ],
+    "iceandfire:frost_troll_leather_helmet": [
+      4657,
+      1.5271299
+    ],
+    "iceandfire:mountain_troll_leather_helmet": [
+      4657,
+      1.5271299
+    ],
+    "iceandfire:myrmex_desert_helmet": [
+      4188,
+      2.1392972
+    ],
+    "iceandfire:myrmex_jungle_helmet": [
+      4188,
+      2.1392972
+    ],
+    "iceandfire:sheep_helmet": [
+      5697,
+      0.030599998
+    ],
+    "iceandfire:tide_blue_helmet": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_bronze_helmet": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_deepblue_helmet": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_green_helmet": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_purple_helmet": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_red_helmet": [
+      3545,
+      4.262535
+    ],
+    "iceandfire:tide_teal_helmet": [
+      3545,
+      4.262535
+    ],
+    "minecraft:chainmail_helmet": [
+      5411,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      4495,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      5477,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      5163,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      5759,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      4368,
+      1.9030677
+    ],
+    "minecraft:shulker_shell": [
+      5922,
+      0.0081
+    ],
+    "minecraft:turtle_helmet": [
+      5107,
+      0.948558
+    ],
+    "minecraft_121_update:copper_helmet_electricity_helmet": [
+      5684,
+      0.031899996
+    ],
+    "minecraft_121_update:copper_helmet_helmet": [
+      4696,
+      1.4767131
+    ],
+    "mowziesmobs:sol_visage": [
+      5573,
+      0.042999998
+    ],
+    "mowziesmobs:umvuthana_mask_bliss": [
+      5847,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_faith": [
+      5847,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_fear": [
+      5847,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_fury": [
+      5847,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_misery": [
+      5847,
+      0.015599999
+    ],
+    "mowziesmobs:umvuthana_mask_rage": [
+      5847,
+      0.015599999
+    ],
+    "mowziesmobs:wrought_helmet": [
+      5577,
+      0.0426
+    ],
+    "nethers_exoticism:kiwano_helmet": [
+      4953,
+      1.1460843
+    ],
+    "nethers_exoticism:ramboutan_helmet": [
+      4988,
+      1.1012076
+    ],
+    "outer_end:cobalt_crystal_helmet": [
+      3916,
+      3.2725234
+    ],
+    "outer_end:mint_crystal_helmet": [
+      3916,
+      3.2725234
+    ],
+    "outer_end:rose_crystal_helmet": [
+      3916,
+      3.2725234
+    ],
+    "plenty_of_golems:tiky_mask_helmet": [
+      4995,
+      1.0922337
+    ],
+    "reliquary:witch_hat": [
+      5373,
+      0.59678036
+    ],
+    "selfexpression:akool_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:android_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:aomori_helmet": [
+      5212,
+      0.8130289
+    ],
+    "selfexpression:apocalypse_slodier_helmet": [
+      5177,
+      0.8583848
+    ],
+    "selfexpression:apocalypsise_survivor_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:aremeh_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:artem_andr_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:assassin_helmet": [
+      5653,
+      0.035
+    ],
+    "selfexpression:autumn_cowboy_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:autumn_gardener_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:autumn_leaf_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:back_mounted_patronage_helmet": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:balaclava_helmet": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:bandage_helmet": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:base_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:battle_helmet": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:beach_helmet": [
+      5823,
+      0.018
+    ],
+    "selfexpression:blue_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:blue_t_shirt_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:bogatyr_helmet": [
+      5069,
+      0.9973453
+    ],
+    "selfexpression:bounty_hunter_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:builder_helmet": [
+      5653,
+      0.035
+    ],
+    "selfexpression:captain_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:casual_autum_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:ceraplay_2004_helmet": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:chemical_protection_helmet": [
+      5502,
+      0.23071903
+    ],
+    "selfexpression:christmass_elf_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:clown_helmet": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:combine_helmet": [
+      4883,
+      1.2359076
+    ],
+    "selfexpression:cosmic_helmet": [
+      5823,
+      0.018
+    ],
+    "selfexpression:courier_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cozy_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:creeper_mask_helmet": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:crown_helmet": [
+      5905,
+      0.009799999
+    ],
+    "selfexpression:crusader_helmet": [
+      5219,
+      0.8039249
+    ],
+    "selfexpression:cultist_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:cyber_captain_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cyber_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:cyber_hunter_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:dark_knight_helmet": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:dark_wizzard_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:dead_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:defender_helmet": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:demon_hunter_helmet": [
+      4883,
+      1.2359076
+    ],
+    "selfexpression:desert_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:desert_shooter_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:dinosaur_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:divers_mask_helmet": [
+      5767,
+      0.023599999
+    ],
+    "selfexpression:doctor_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:dragon_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:dreams_mask_helmet": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:electro_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:emperor_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:engineer_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:error_tv_helmet": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:festivity_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:fox_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:frogs_cap_helmet": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:future_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:future_hoodie_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:galactic_helmet": [
+      5823,
+      0.018
+    ],
+    "selfexpression:garland_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:gena_play_1_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:glass_helmet": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:golden_boss_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:gray_hood_helmet": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:gray_jacket_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:group_leader_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:hacker_helmet": [
+      5912,
+      0.009099999
+    ],
+    "selfexpression:hawaii_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:hev_helmet": [
+      4522,
+      1.7022233
+    ],
+    "selfexpression:horseman_helmet": [
+      5713,
+      0.028999997
+    ],
+    "selfexpression:improved_chemical_protection_helmet": [
+      5312,
+      0.68114936
+    ],
+    "selfexpression:incognito_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:insulated_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:jester_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:kings_cloak_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:knight_helmet": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:leaf_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:leopard_helmet": [
+      5823,
+      0.018
+    ],
+    "selfexpression:liquidator_helmet": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:lololowka_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:love_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:mafia_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:mandalorians_armor_helmet": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:medieval_king_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:mine_block_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:miner_helmet": [
+      5653,
+      0.035
+    ],
+    "selfexpression:missing_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:monocle_helmet": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:mountain_ranger_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:nerkin_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:new_year_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:ninja_hood_helmet": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:officer_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:old_coat_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:outlaw_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:pancake_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:philosopher_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:phoenix_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:pilots_helmet_helmet": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:plaid_j_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:plate_armor_helmet": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:polar_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:police_2_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:promikmikkk_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:pumpkin_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:pumpkin_mask_helmet": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:purple_hoodie_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:racers_helmet_helmet": [
+      5893,
+      0.011
+    ],
+    "selfexpression:raincoat_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:rams_horns_helmet": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:rebel_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:red_helmet": [
+      5667,
+      0.0336
+    ],
+    "selfexpression:red_jacket_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:red_shirt_n_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:red_soldier_helmet": [
+      5599,
+      0.0404
+    ],
+    "selfexpression:red_sweater_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:redynines_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:respirator_helmet": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:rob_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:rogue_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:russian_cap_helmet": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:santa_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:santas_hat_helmet": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:scarecrow_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:shooter_helmet": [
+      5713,
+      0.028999997
+    ],
+    "selfexpression:skull_helmet": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:sniper_helmet": [
+      5369,
+      0.6024908
+    ],
+    "selfexpression:snow_hunter_helmet": [
+      5706,
+      0.0297
+    ],
+    "selfexpression:snow_soldier_helmet": [
+      5502,
+      0.23071903
+    ],
+    "selfexpression:snowman_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:soldier_helmet": [
+      5488,
+      0.37663084
+    ],
+    "selfexpression:space_pilot_helmet": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:space_suit_helmet": [
+      5247,
+      0.7673663
+    ],
+    "selfexpression:spring_helmet": [
+      5823,
+      0.018
+    ],
+    "selfexpression:stalker_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:stormtroopers_armor_helmet": [
+      4953,
+      1.1460843
+    ],
+    "selfexpression:straw_hat_helmet": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:swat_helmet": [
+      5319,
+      0.67169523
+    ],
+    "selfexpression:sweater_with_deer_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:tactical_helmet": [
+      5597,
+      0.040599998
+    ],
+    "selfexpression:taiga_hunter_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:thiefs_hood_helmet": [
+      5592,
+      0.0411
+    ],
+    "selfexpression:thoughtful_mask_helmet": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:tramp_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:tropic_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:truckmans_cap_helmet": [
+      5747,
+      0.0256
+    ],
+    "selfexpression:tv_helmet": [
+      5907,
+      0.0095999995
+    ],
+    "selfexpression:twin_cultist_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:vampirs_mantle_helmet": [
+      5779,
+      0.0224
+    ],
+    "selfexpression:vinous_sweater_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:wanderer_2_helmet": [
+      5439,
+      0.4942926
+    ],
+    "selfexpression:wanderer_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:wanderers_hat_helmet": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:wanderers_mask_helmet": [
+      5919,
+      0.0084
+    ],
+    "selfexpression:welders_mask_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:winter_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:wolfs_skin_helmet": [
+      5887,
+      0.0116
+    ],
+    "selfexpression:wolfs_t_shirt_helmet": [
+      5823,
+      0.018
+    ],
+    "selfexpression:year_sweater_helmet": [
+      5859,
+      0.014399999
+    ],
+    "selfexpression:yt_den_boom_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:zombie_hunter_helmet": [
+      5727,
+      0.0276
+    ],
+    "selfexpression:zombie_survivor_helmet": [
+      5727,
+      0.0276
+    ],
+    "stalwart_dungeons:chorundum_armor_helmet": [
+      3023,
+      5.394444
+    ],
+    "stalwart_dungeons:tungsten_helmet": [
+      3551,
+      4.248896
+    ],
+    "stalwart_dungeons:warted_tungsten_helmet": [
+      3551,
+      4.248896
+    ],
+    "the_bumblezone:flower_headwear": [
+      5759,
+      0.0244
+    ],
+    "the_bumblezone:stingless_bee_helmet_1": [
+      5448,
+      0.4779939
+    ],
+    "the_bumblezone:stingless_bee_helmet_2": [
+      5448,
+      0.4779939
+    ],
+    "theabyss:aberythe_armor_helmet": [
+      3801,
+      3.6383376
+    ],
+    "theabyss:bone_armor_helmet": [
+      4761,
+      1.3928432
+    ],
+    "theabyss:fusion_armor_helmet": [
+      2357,
+      6.789111
+    ],
+    "theabyss:garnite_armor_helmet": [
+      3271,
+      4.865798
+    ],
+    "theabyss:glacerythe_armor_helmet": [
+      3978,
+      2.9227805
+    ],
+    "theabyss:ignisithe_armor_helmet": [
+      3987,
+      2.819819
+    ],
+    "theabyss:incorythe_armor_helmet": [
+      2275,
+      6.9599247
+    ],
+    "theabyss:phantom_armor_helmet": [
+      3146,
+      5.133471
+    ],
+    "theabyss:unorithe_armor_helmet": [
+      1663,
+      8.234071
+    ],
+    "tropicraft:ashen_mask_bat_boy": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_enigma": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_headinator": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_horn_monkey": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_invader": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_mojo": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_oblongatron": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_screw_attack": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_square_horn": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_square_zord": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_the_brain": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_the_heart": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:ashen_mask_warthog": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:fire_helmet": [
+      5092,
+      0.96782476
+    ],
+    "tropicraft:nigel_stache": [
+      5918,
+      0.0084999995
+    ],
+    "tropicraft:pink_scuba_goggles": [
+      5997,
+      5.9999997E-4
+    ],
+    "tropicraft:scale_helmet": [
+      5047,
+      1.0255646
+    ],
+    "tropicraft:yellow_scuba_goggles": [
+      5997,
+      5.9999997E-4
+    ],
+    "twilightforest:arctic_helmet": [
+      4865,
+      1.2590272
+    ],
+    "twilightforest:fiery_helmet": [
+      3473,
+      4.4243336
+    ],
+    "twilightforest:ironwood_helmet": [
+      4764,
+      1.3889769
+    ],
+    "twilightforest:knightmetal_helmet": [
+      4223,
+      2.0932417
+    ],
+    "twilightforest:phantom_helmet": [
+      4146,
+      2.1946402
+    ],
+    "twilightforest:steeleaf_helmet": [
+      4288,
+      2.0078652
+    ],
+    "twilightforest:yeti_helmet": [
+      4175,
+      2.1564183
+    ],
+    "undergarden:ancient_helmet": [
+      4960,
+      1.1371077
+    ],
+    "undergarden:cloggrum_helmet": [
+      5029,
+      1.0486451
+    ],
+    "undergarden:froststeel_helmet": [
+      4386,
+      1.8795317
+    ],
+    "undergarden:utherium_helmet": [
+      4115,
+      2.235541
+    ],
+    "unusualend:chorus_helmet": [
+      5932,
+      0.0070999996
+    ],
+    "unusualend:spirit_grim_helmet": [
+      4983,
+      1.1076179
+    ],
+    "unusualend:spirit_malice_helmet": [
+      4983,
+      1.1076179
+    ],
+    "unusualend:spirit_mania_helmet": [
+      4983,
+      1.1076179
+    ],
+    "unusualend:spirit_smile_helmet": [
+      4983,
+      1.1076179
+    ],
+    "unusualend:spirit_twist_helmet": [
+      4983,
+      1.1076179
+    ],
+    "unusualend:spirit_vice_helmet": [
+      4983,
+      1.1076179
+    ],
+    "vampirism:armor_of_swiftness_head_enhanced": [
+      4903,
+      1.2102311
+    ],
+    "vampirism:armor_of_swiftness_head_normal": [
+      5642,
+      0.036099996
+    ],
+    "vampirism:armor_of_swiftness_head_ultimate": [
+      4168,
+      2.1656408
+    ],
+    "vampirism:hunter_coat_head_enhanced": [
+      4174,
+      2.1577356
+    ],
+    "vampirism:hunter_coat_head_normal": [
+      4930,
+      1.1755847
+    ],
+    "vampirism:hunter_coat_head_ultimate": [
+      3414,
+      4.5548368
+    ],
+    "vampirism:hunter_hat_head_0": [
+      5163,
+      0.8764657
+    ],
+    "vampirism:hunter_hat_head_1": [
+      5163,
+      0.8764657
+    ],
+    "vampirism:vampire_clothing_crown": [
+      5627,
+      0.0376
+    ],
+    "vampirism:vampire_clothing_hat": [
+      5627,
+      0.0376
+    ],
+    "vinery:straw_hat": [
+      5697,
+      0.030599998
+    ],
+    "werewolves:dark_pelt_helmet": [
+      5609,
+      0.039399996
+    ],
+    "werewolves:pelt_helmet": [
+      5789,
+      0.021399999
+    ],
+    "werewolves:silver_helmet": [
+      4953,
+      1.1460843
+    ],
+    "werewolves:white_pelt_helmet": [
+      5463,
+      0.44787866
+    ]
+  }
+}
