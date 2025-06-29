@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/dirt_tile_stairs_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/worn_notebook": {
     "criteria": {
       "has_journal": "2025-06-29 00:14:27 +0000"
@@ -545,6 +551,12 @@
     },
     "done": true
   },
+  "environmental:recipes/misc/mud_ball_from_dirt": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "frozen_tundra": "2025-06-29 00:14:28 +0000"
@@ -737,6 +749,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/dirt": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-29 00:14:27 +0000"
@@ -776,6 +794,12 @@
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-06-29 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_brick_stairs_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
     },
     "done": true
   },
@@ -887,6 +911,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/dirt_tiles_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-29 00:14:27 +0000"
@@ -995,6 +1025,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-29 00:14:27 +0000"
@@ -1088,6 +1124,12 @@
   "plenty_of_golems:not_enough_golem_ad": {
     "criteria": {
       "not_enough_golem_ad_0": "2025-06-29 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_bricks": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
     },
     "done": true
   },
@@ -1238,6 +1280,12 @@
     },
     "done": true
   },
+  "environmental:recipes/decorations/dirt_brick_wall_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_flight": {
     "criteria": {
       "has_journal": "2025-06-29 00:14:27 +0000"
@@ -1376,6 +1424,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-06-29 00:15:14 +0000"
@@ -1475,6 +1529,12 @@
   "ars_nouveau:recipes/misc/starbuncle_shades": {
     "criteria": {
       "has_journal": "2025-06-29 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_bricks_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
     },
     "done": true
   },
@@ -1814,6 +1874,12 @@
     },
     "done": true
   },
+  "environmental:recipes/building_blocks/dirt_brick_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2025-06-29 00:14:27 +0000"
@@ -2128,6 +2194,12 @@
     },
     "done": true
   },
+  "environmental:recipes/decorations/dirt_tile_wall_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:main/root": {
     "criteria": {
       "seeds": "2025-06-29 00:14:27 +0000"
@@ -2365,6 +2437,12 @@
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-06-29 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/dirt_tile_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-29 00:45:05 +0000"
     },
     "done": true
   },
