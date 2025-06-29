@@ -2766,6 +2766,12 @@
     },
     "done": true
   },
+  "delightful:recipes/cantaloupe_slice": {
+    "criteria": {
+      "has_cantaloupe": "2025-06-29 02:09:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-29 01:51:46 +0000"
@@ -2778,6 +2784,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/throne": {
+    "criteria": {
+      "has_wool": "2025-06-29 02:08:32 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/bit_storage": {
     "criteria": {
       "has_l": "2025-06-29 01:51:46 +0000"
@@ -2787,6 +2799,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-06-29 01:51:46 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/pirate2_helmet": {
+    "criteria": {
+      "has_red_carpet": "2025-06-29 02:08:32 +0000"
     },
     "done": true
   },
@@ -2805,6 +2823,12 @@
   "biomancy:recipes/biomancy/digesting/nutrient_paste_from_seeds": {
     "criteria": {
       "has_seeds": "2025-06-29 01:53:00 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/stuffed_cantaloupe": {
+    "criteria": {
+      "has_cantaloupe": "2025-06-29 02:09:01 +0000"
     },
     "done": true
   },
