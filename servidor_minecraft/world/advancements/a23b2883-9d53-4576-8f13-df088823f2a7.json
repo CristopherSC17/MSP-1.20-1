@@ -2295,21 +2295,15 @@
     },
     "done": true
   },
+  "a_man_with_plushies:first_golden_plush_box": {
+    "criteria": {
+      "first_golden_plush_box_0": "2025-06-29 01:17:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-06-29 01:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-06-29 01:18:48 +0000"
-    },
-    "done": true
-  },
-  "a_man_with_plushies:first_uncommon_plushie": {
-    "criteria": {
-      "first_uncommon_plushie_0": "2025-06-29 01:19:33 +0000"
     },
     "done": true
   },
@@ -2376,12 +2370,6 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_trampoline": {
     "criteria": {
       "has_string": "2025-06-29 01:17:32 +0000"
-    },
-    "done": true
-  },
-  "a_man_with_plushies:first_golden_plush_box": {
-    "criteria": {
-      "first_golden_plush_box_0": "2025-06-29 01:17:26 +0000"
     },
     "done": true
   },
@@ -2595,9 +2583,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-29 01:18:48 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-06-29 01:18:48 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_uncommon_plushie": {
+    "criteria": {
+      "first_uncommon_plushie_0": "2025-06-29 01:19:33 +0000"
     },
     "done": true
   },

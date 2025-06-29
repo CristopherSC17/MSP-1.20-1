@@ -1,4 +1,10 @@
 {
+  "nethers_exoticism:nethers_exoticism_adv": {
+    "criteria": {
+      "nethers_exoticism_adv": "2025-06-29 01:13:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -35,12 +41,6 @@
     },
     "done": true
   },
-  "undergarden:undergarden/root": {
-    "criteria": {
-      "tick": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -50,12 +50,6 @@
   "ars_nouveau:recipes/misc/void_prism": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -89,27 +83,9 @@
     },
     "done": true
   },
-  "a_man_with_plushies:first_uncommon_plushie": {
-    "criteria": {
-      "first_uncommon_plushie_0": "2025-06-29 01:17:24 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/spell_prism": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wipe_spell_parchment": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:grant_patchouli": {
-    "criteria": {
-      "tick": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -125,12 +101,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -143,21 +113,9 @@
     },
     "done": true
   },
-  "a_man_with_plushies:first_plush_box": {
-    "criteria": {
-      "first_plush_box_0": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "a_man_with_plushies:first_rare_plushie": {
-    "criteria": {
-      "first_rare_plushie_0": "2025-06-29 01:17:27 +0000"
     },
     "done": true
   },
@@ -197,12 +155,6 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -212,12 +164,6 @@
   "ars_nouveau:recipes/misc/ritual_warping": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/forge_seeds": {
-    "criteria": {
-      "has_seeds": "2025-06-29 01:16:25 +0000"
     },
     "done": true
   },
@@ -232,12 +178,6 @@
       "has_birch": "2025-06-29 01:13:05 +0000"
     },
     "done": true
-  },
-  "the_bumblezone:biomes/discover_all_biomes": {
-    "criteria": {
-      "bumbling_beepartments": "2025-06-29 01:13:06 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/manipulation_essence_to_tuff": {
     "criteria": {
@@ -272,12 +212,6 @@
   "ars_nouveau:recipes/misc/ritual_gravity": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "youkaishomecoming:main/welcome_to_youkais_homecoming": {
-    "criteria": {
-      "0": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -326,12 +260,6 @@
   "ars_nouveau:recipes/misc/worn_notebook": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/potion_jar_empty": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -401,12 +329,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stone_cutterslab": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/archwood_stairs": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -430,18 +352,6 @@
       "herios_helian_mod_0": "2025-06-29 01:13:05 +0000"
     },
     "done": true
-  },
-  "ars_nouveau:recipes/misc/water_essence_to_bucket": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "frozen_tundra": "2025-06-29 01:14:45 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/decorations/sourcestone_6": {
     "criteria": {
@@ -509,12 +419,6 @@
     },
     "done": true
   },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "frozen_tundra": "2025-06-29 01:14:45 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -551,12 +455,6 @@
     },
     "done": true
   },
-  "idas:idas_root": {
-    "criteria": {
-      "always": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/spike_to_dye": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -566,12 +464,6 @@
   "ars_nouveau:recipes/misc/ritual_moonfall": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/root": {
-    "criteria": {
-      "tick": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -647,12 +539,6 @@
     },
     "done": true
   },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -716,12 +602,6 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:root": {
-    "criteria": {
-      "instant_granted": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -827,12 +707,6 @@
     },
     "done": true
   },
-  "beachparty:main/root": {
-    "criteria": {
-      "example_criterion": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -872,12 +746,6 @@
   "ars_nouveau:recipes/misc/ritual_scrying": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "under_the_moon:root": {
-    "criteria": {
-      "root_0": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -947,12 +815,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_stairs": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_harvest": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -962,12 +824,6 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "plenty_of_golems:not_enough_golem_ad": {
-    "criteria": {
-      "not_enough_golem_ad_0": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -1031,12 +887,6 @@
     },
     "done": true
   },
-  "yungscavebiomes:root": {
-    "criteria": {
-      "always": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2025-06-29 01:13:05 +0000"
@@ -1054,18 +904,6 @@
       "has_journal": "2025-06-29 01:13:05 +0000"
     },
     "done": true
-  },
-  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
-    "criteria": {
-      "has_wheat_seeds": "2025-06-29 01:16:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:snowy_beach": "2025-06-29 01:13:06 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/ritual_wilden_summon": {
     "criteria": {
@@ -1094,12 +932,6 @@
   "ars_nouveau:recipes/misc/ritual_flight": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stonecutter_stair": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -1187,12 +1019,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/relay": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_burrowing": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -1265,12 +1091,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_forestation": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -1292,12 +1112,6 @@
   "ars_nouveau:recipes/misc/potion_jar": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/warp_scroll": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -1337,12 +1151,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -1361,12 +1169,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/chainmail_helmet2": {
-    "criteria": {
-      "has_wheat_seeds": "2025-06-29 01:16:25 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -1382,12 +1184,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/wipe_starby_shard": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -1589,12 +1385,6 @@
     },
     "done": true
   },
-  "herios_floral_expansion:herios_floral_expansion": {
-    "criteria": {
-      "herios_floral_expansion_0": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -1652,12 +1442,6 @@
   "ars_nouveau:recipes/misc/magelight_torch": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/platform_to_pedestal": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -1909,12 +1693,6 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2025-06-29 01:13:05 +0000"
@@ -1951,12 +1729,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/source_jar": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -1966,12 +1738,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-06-29 01:19:43 +0000"
     },
     "done": true
   },
@@ -1990,12 +1756,6 @@
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "nethers_exoticism:nethers_exoticism_adv": {
-    "criteria": {
-      "nethers_exoticism_adv": "2025-06-29 01:13:04 +0000"
     },
     "done": true
   },
@@ -2047,12 +1807,6 @@
     },
     "done": true
   },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -2068,18 +1822,6 @@
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/oat_seeds": {
-    "criteria": {
-      "has_wheat_seeds": "2025-06-29 01:16:25 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_seeds": {
-    "criteria": {
-      "has_seeds": "2025-06-29 01:16:25 +0000"
     },
     "done": true
   },
@@ -2101,12 +1843,6 @@
     },
     "done": true
   },
-  "majruszsdifficulty:game_stage_normal": {
-    "criteria": {
-      "is_triggered": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/clear_allow": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -2116,12 +1852,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -2161,12 +1891,6 @@
     },
     "done": true
   },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
@@ -2182,12 +1906,6 @@
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "a_man_with_plushies:first_common_plushie": {
-    "criteria": {
-      "first_common_plushie_0": "2025-06-29 01:15:37 +0000"
     },
     "done": true
   },
@@ -2240,27 +1958,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/sourcestone_small_bricks_stairs": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2025-06-29 01:13:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:wiki": {
-    "criteria": {
-      "instant_granted": "2025-06-29 01:13:06 +0000"
     },
     "done": true
   },
@@ -2340,6 +2040,313 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-29 01:13:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/spell_prism": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_plush_box": {
+    "criteria": {
+      "first_plush_box_0": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "bumbling_beepartments": "2025-06-29 01:13:06 +0000"
+    },
+    "done": false
+  },
+  "youkaishomecoming:main/welcome_to_youkais_homecoming": {
+    "criteria": {
+      "0": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/potion_jar_empty": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/water_essence_to_bucket": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "under_the_moon:root": {
+    "criteria": {
+      "root_0": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "plenty_of_golems:not_enough_golem_ad": {
+    "criteria": {
+      "not_enough_golem_ad_0": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_taiga": "2025-06-29 01:26:53 +0000",
+      "minecraft:snowy_beach": "2025-06-29 01:13:06 +0000"
+    },
+    "done": false
+  },
+  "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stonecutter_stair": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/relay": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/warp_scroll": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/wipe_starby_shard": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "herios_floral_expansion:herios_floral_expansion": {
+    "criteria": {
+      "herios_floral_expansion_0": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/platform_to_pedestal": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/source_jar": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_small_bricks_stairs": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-06-29 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "frozen_tundra": "2025-06-29 01:14:45 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "frozen_tundra": "2025-06-29 01:14:45 +0000"
+    },
+    "done": false
+  },
+  "a_man_with_plushies:first_common_plushie": {
+    "criteria": {
+      "first_common_plushie_0": "2025-06-29 01:15:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_seeds": {
+    "criteria": {
+      "has_seeds": "2025-06-29 01:16:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-29 01:16:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet2": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-29 01:16:25 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-29 01:16:25 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_seeds": {
+    "criteria": {
+      "has_seeds": "2025-06-29 01:16:25 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_uncommon_plushie": {
+    "criteria": {
+      "first_uncommon_plushie_0": "2025-06-29 01:17:24 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_rare_plushie": {
+    "criteria": {
+      "first_rare_plushie_0": "2025-06-29 01:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-06-29 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-06-29 01:29:13 +0000"
     },
     "done": true
   },
