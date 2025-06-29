@@ -2636,6 +2636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-29 00:28:08 +0000"
+    },
+    "done": true
+  },
   "environmental:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-06-29 00:07:08 +0000"
@@ -2753,6 +2759,12 @@
   "environmental:recipes/misc/mud_ball_from_dirt": {
     "criteria": {
       "has_dirt": "2025-06-29 00:15:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-29 00:32:04 +0000"
     },
     "done": true
   },
@@ -3284,6 +3296,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-29 00:32:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-06-29 00:12:44 +0000"
@@ -3335,6 +3353,12 @@
   "aether_redux:recipes/transportation/jellyshroom_boat": {
     "criteria": {
       "in_water": "2025-06-29 00:07:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-29 00:28:08 +0000"
     },
     "done": true
   },

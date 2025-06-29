@@ -1195,6 +1195,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-06-29 00:30:21 +0000",
+      "minecraft:snowy_taiga": "2025-06-29 00:29:55 +0000",
+      "minecraft:frozen_ocean": "2025-06-29 00:29:58 +0000",
       "minecraft:snowy_beach": "2025-06-29 00:14:38 +0000"
     },
     "done": false
