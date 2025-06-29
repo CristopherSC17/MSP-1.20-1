@@ -2660,6 +2660,12 @@
     },
     "done": true
   },
+  "a_man_with_plushies:first_uncommon_plushie": {
+    "criteria": {
+      "first_uncommon_plushie_0": "2025-06-29 00:36:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-06-29 00:12:44 +0000"
@@ -3323,6 +3329,12 @@
   "biomeswevegone:recipes/transportation/witch_hazel_boat": {
     "criteria": {
       "in_water": "2025-06-29 00:07:08 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_common_plushie": {
+    "criteria": {
+      "first_common_plushie_0": "2025-06-29 00:36:21 +0000"
     },
     "done": true
   },

@@ -2314,33 +2314,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-06-29 00:12:45 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/forge_seeds": {
-    "criteria": {
-      "has_seeds": "2025-06-29 00:22:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
-    "criteria": {
-      "has_spruce_shrub": "2025-06-29 00:18:33 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-06-29 00:12:42 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
-    "criteria": {
-      "has_wheat_seeds": "2025-06-29 00:22:41 +0000"
     },
     "done": true
   },
@@ -2350,21 +2326,45 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/chainmail_helmet2": {
-    "criteria": {
-      "has_wheat_seeds": "2025-06-29 00:22:41 +0000"
-    },
-    "done": true
-  },
   "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
     "criteria": {
       "has_ginger": "2025-06-29 00:12:42 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-06-29 00:12:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2025-06-29 00:12:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
+    "criteria": {
+      "has_spruce_shrub": "2025-06-29 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_seeds": {
+    "criteria": {
+      "has_seeds": "2025-06-29 00:22:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-29 00:22:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet2": {
+    "criteria": {
+      "has_wheat_seeds": "2025-06-29 00:22:41 +0000"
     },
     "done": true
   },
@@ -2377,6 +2377,12 @@
   "biomancy:recipes/biomancy/digesting/nutrient_paste_from_seeds": {
     "criteria": {
       "has_seeds": "2025-06-29 00:22:41 +0000"
+    },
+    "done": true
+  },
+  "a_man_with_plushies:first_uncommon_plushie": {
+    "criteria": {
+      "first_uncommon_plushie_0": "2025-06-29 00:42:28 +0000"
     },
     "done": true
   },
