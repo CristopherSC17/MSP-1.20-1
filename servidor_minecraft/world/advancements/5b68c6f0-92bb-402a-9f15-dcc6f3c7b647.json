@@ -2267,6 +2267,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-06-29 01:43:06 +0000",
       "minecraft:frozen_ocean": "2025-06-29 00:13:37 +0000",
       "minecraft:snowy_beach": "2025-06-29 00:01:30 +0000"
     },
@@ -2725,6 +2726,36 @@
   "knightquest:recipes/misc/enderman_chestplate": {
     "criteria": {
       "has_grass_block": "2025-06-29 01:19:25 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_small_flowers": {
+    "criteria": {
+      "has_small_flowers": "2025-06-29 01:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-06-29 01:51:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-06-29 01:51:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-06-29 01:51:41 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-06-29 01:51:41 +0000"
     },
     "done": true
   },
