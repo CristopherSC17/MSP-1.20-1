@@ -2674,5 +2674,59 @@
     },
     "done": true
   },
+  "a_man_with_plushies:first_common_plushie": {
+    "criteria": {
+      "first_common_plushie_0": "2025-06-29 01:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-29 01:18:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-29 01:18:56 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-06-29 01:19:25 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-06-29 01:19:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_grass_block": "2025-06-29 01:19:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_grass_block": "2025-06-29 01:19:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_grass_block": "2025-06-29 01:19:25 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_grass_block": "2025-06-29 01:19:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
